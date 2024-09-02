@@ -1,0 +1,5984 @@
+{
+    "Cities": [
+        {
+            "Name": "Abbott",
+            "Zip": "76621"
+        },
+        {
+            "Name": "Abernathy",
+            "Zip": "79311"
+        },
+        {
+            "Name": "Abilene",
+            "Zip": "79601"
+        },
+        {
+            "Name": "Ace",
+            "Zip": "77326"
+        },
+        {
+            "Name": "Ackerly",
+            "Zip": "79713"
+        },
+        {
+            "Name": "Addison",
+            "Zip": "75001"
+        },
+        {
+            "Name": "Adkins",
+            "Zip": "78101"
+        },
+        {
+            "Name": "Adrian",
+            "Zip": "79001"
+        },
+        {
+            "Name": "Afton",
+            "Zip": "79220"
+        },
+        {
+            "Name": "Agua Dulce",
+            "Zip": "78330"
+        },
+        {
+            "Name": "Aiken",
+            "Zip": "79221"
+        },
+        {
+            "Name": "Alamo",
+            "Zip": "78516"
+        },
+        {
+            "Name": "Alanreed",
+            "Zip": "79002"
+        },
+        {
+            "Name": "Alba",
+            "Zip": "75410"
+        },
+        {
+            "Name": "Albany",
+            "Zip": "76430"
+        },
+        {
+            "Name": "Aledo",
+            "Zip": "76008"
+        },
+        {
+            "Name": "Alice",
+            "Zip": "78332"
+        },
+        {
+            "Name": "Alief",
+            "Zip": "77411"
+        },
+        {
+            "Name": "Allen",
+            "Zip": "75002"
+        },
+        {
+            "Name": "Alleyton",
+            "Zip": "78935"
+        },
+        {
+            "Name": "Allison",
+            "Zip": "79003"
+        },
+        {
+            "Name": "Alpine",
+            "Zip": "79830"
+        },
+        {
+            "Name": "Altair",
+            "Zip": "77412"
+        },
+        {
+            "Name": "Alto",
+            "Zip": "75925"
+        },
+        {
+            "Name": "Alvarado",
+            "Zip": "76009"
+        },
+        {
+            "Name": "Alvin",
+            "Zip": "77511"
+        },
+        {
+            "Name": "Alvord",
+            "Zip": "76225"
+        },
+        {
+            "Name": "Amarillo",
+            "Zip": "79101"
+        },
+        {
+            "Name": "Amherst",
+            "Zip": "79312"
+        },
+        {
+            "Name": "Anahuac",
+            "Zip": "77514"
+        },
+        {
+            "Name": "Anderson",
+            "Zip": "77830"
+        },
+        {
+            "Name": "Andrews",
+            "Zip": "79714"
+        },
+        {
+            "Name": "Angleton",
+            "Zip": "77515"
+        },
+        {
+            "Name": "Anna",
+            "Zip": "75409"
+        },
+        {
+            "Name": "Annona",
+            "Zip": "75550"
+        },
+        {
+            "Name": "Anson",
+            "Zip": "79501"
+        },
+        {
+            "Name": "Anthony",
+            "Zip": "79821"
+        },
+        {
+            "Name": "Anton",
+            "Zip": "79313"
+        },
+        {
+            "Name": "Apple Springs",
+            "Zip": "75926"
+        },
+        {
+            "Name": "Aquilla",
+            "Zip": "76622"
+        },
+        {
+            "Name": "Aransas Pass",
+            "Zip": "78335"
+        },
+        {
+            "Name": "Archer City",
+            "Zip": "76351"
+        },
+        {
+            "Name": "Argyle",
+            "Zip": "76226"
+        },
+        {
+            "Name": "Arlington",
+            "Zip": "76000"
+        },
+        {
+            "Name": "Armstrong",
+            "Zip": "78338"
+        },
+        {
+            "Name": "Arp",
+            "Zip": "75750"
+        },
+        {
+            "Name": "Art",
+            "Zip": "76820"
+        },
+        {
+            "Name": "Artesia Wells",
+            "Zip": "78001"
+        },
+        {
+            "Name": "Arthur City",
+            "Zip": "75411"
+        },
+        {
+            "Name": "Asherton",
+            "Zip": "78827"
+        },
+        {
+            "Name": "Aspermont",
+            "Zip": "79502"
+        },
+        {
+            "Name": "Atascosa",
+            "Zip": "78002"
+        },
+        {
+            "Name": "Athens",
+            "Zip": "75751"
+        },
+        {
+            "Name": "Atlanta",
+            "Zip": "75551"
+        },
+        {
+            "Name": "Aubrey",
+            "Zip": "76227"
+        },
+        {
+            "Name": "Austin",
+            "Zip": "73301"
+        },
+        {
+            "Name": "Austwell",
+            "Zip": "77950"
+        },
+        {
+            "Name": "Avalon",
+            "Zip": "76623"
+        },
+        {
+            "Name": "Avery",
+            "Zip": "75554"
+        },
+        {
+            "Name": "Avinger",
+            "Zip": "75630"
+        },
+        {
+            "Name": "Avoca",
+            "Zip": "79503"
+        },
+        {
+            "Name": "Axtell",
+            "Zip": "76624"
+        },
+        {
+            "Name": "Azle",
+            "Zip": "76020"
+        },
+        {
+            "Name": "Bacliff",
+            "Zip": "77518"
+        },
+        {
+            "Name": "Bagwell",
+            "Zip": "75412"
+        },
+        {
+            "Name": "Bailey",
+            "Zip": "75413"
+        },
+        {
+            "Name": "Baird",
+            "Zip": "79504"
+        },
+        {
+            "Name": "Ballinger",
+            "Zip": "76821"
+        },
+        {
+            "Name": "Balmorhea",
+            "Zip": "79718"
+        },
+        {
+            "Name": "Bandera",
+            "Zip": "78003"
+        },
+        {
+            "Name": "Bangs",
+            "Zip": "76823"
+        },
+        {
+            "Name": "Banquete",
+            "Zip": "78339"
+        },
+        {
+            "Name": "Bardwell",
+            "Zip": "75101"
+        },
+        {
+            "Name": "Barker",
+            "Zip": "77413"
+        },
+        {
+            "Name": "Barksdale",
+            "Zip": "78828"
+        },
+        {
+            "Name": "Barnhart",
+            "Zip": "76930"
+        },
+        {
+            "Name": "Barry",
+            "Zip": "75102"
+        },
+        {
+            "Name": "Barstow",
+            "Zip": "79719"
+        },
+        {
+            "Name": "Bartlett",
+            "Zip": "76511"
+        },
+        {
+            "Name": "Bastrop",
+            "Zip": "78602"
+        },
+        {
+            "Name": "Batesville",
+            "Zip": "78829"
+        },
+        {
+            "Name": "Batson",
+            "Zip": "77519"
+        },
+        {
+            "Name": "Bay City",
+            "Zip": "77404"
+        },
+        {
+            "Name": "Bayside",
+            "Zip": "78340"
+        },
+        {
+            "Name": "Baytown",
+            "Zip": "77520"
+        },
+        {
+            "Name": "Beasley",
+            "Zip": "77417"
+        },
+        {
+            "Name": "Beaumont",
+            "Zip": "77701"
+        },
+        {
+            "Name": "Bebe",
+            "Zip": "78603"
+        },
+        {
+            "Name": "Beckville",
+            "Zip": "75631"
+        },
+        {
+            "Name": "Bedford",
+            "Zip": "76021"
+        },
+        {
+            "Name": "Bedias",
+            "Zip": "77831"
+        },
+        {
+            "Name": "Beeville",
+            "Zip": "78102"
+        },
+        {
+            "Name": "Bellaire",
+            "Zip": "77401"
+        },
+        {
+            "Name": "Bellevue",
+            "Zip": "76228"
+        },
+        {
+            "Name": "Bells",
+            "Zip": "75414"
+        },
+        {
+            "Name": "Bellville",
+            "Zip": "77418"
+        },
+        {
+            "Name": "Belmont",
+            "Zip": "78604"
+        },
+        {
+            "Name": "Belton",
+            "Zip": "76513"
+        },
+        {
+            "Name": "Ben Arnold",
+            "Zip": "76517"
+        },
+        {
+            "Name": "Ben Bolt",
+            "Zip": "78342"
+        },
+        {
+            "Name": "Ben Franklin",
+            "Zip": "75415"
+        },
+        {
+            "Name": "Ben Wheeler",
+            "Zip": "75754"
+        },
+        {
+            "Name": "Benavides",
+            "Zip": "78341"
+        },
+        {
+            "Name": "Bend",
+            "Zip": "76824"
+        },
+        {
+            "Name": "Benjamin",
+            "Zip": "79505"
+        },
+        {
+            "Name": "Berclair",
+            "Zip": "78107"
+        },
+        {
+            "Name": "Bergheim",
+            "Zip": "78004"
+        },
+        {
+            "Name": "Bertram",
+            "Zip": "78605"
+        },
+        {
+            "Name": "Big Bend National Park",
+            "Zip": "79834"
+        },
+        {
+            "Name": "Big Lake",
+            "Zip": "76932"
+        },
+        {
+            "Name": "Big Sandy",
+            "Zip": "75755"
+        },
+        {
+            "Name": "Big Spring",
+            "Zip": "79720"
+        },
+        {
+            "Name": "Big Wells",
+            "Zip": "78830"
+        },
+        {
+            "Name": "Bigfoot",
+            "Zip": "78005"
+        },
+        {
+            "Name": "Birome",
+            "Zip": "76625"
+        },
+        {
+            "Name": "Bishop",
+            "Zip": "78343"
+        },
+        {
+            "Name": "Bivins",
+            "Zip": "75555"
+        },
+        {
+            "Name": "Blackwell",
+            "Zip": "79506"
+        },
+        {
+            "Name": "Blanco",
+            "Zip": "78606"
+        },
+        {
+            "Name": "Blanket",
+            "Zip": "76432"
+        },
+        {
+            "Name": "Bledsoe",
+            "Zip": "79314"
+        },
+        {
+            "Name": "Bleiblerville",
+            "Zip": "78931"
+        },
+        {
+            "Name": "Blessing",
+            "Zip": "77419"
+        },
+        {
+            "Name": "Bloomburg",
+            "Zip": "75556"
+        },
+        {
+            "Name": "Blooming Grove",
+            "Zip": "76626"
+        },
+        {
+            "Name": "Bloomington",
+            "Zip": "77951"
+        },
+        {
+            "Name": "Blossom",
+            "Zip": "75416"
+        },
+        {
+            "Name": "Blue Ridge",
+            "Zip": "75424"
+        },
+        {
+            "Name": "Bluegrove",
+            "Zip": "76352"
+        },
+        {
+            "Name": "Bluff Dale",
+            "Zip": "76433"
+        },
+        {
+            "Name": "Bluffton",
+            "Zip": "78607"
+        },
+        {
+            "Name": "Blum",
+            "Zip": "76627"
+        },
+        {
+            "Name": "Boerne",
+            "Zip": "78006"
+        },
+        {
+            "Name": "Bogata",
+            "Zip": "75417"
+        },
+        {
+            "Name": "Boling",
+            "Zip": "77420"
+        },
+        {
+            "Name": "Bon Wier",
+            "Zip": "75928"
+        },
+        {
+            "Name": "Bonham",
+            "Zip": "75418"
+        },
+        {
+            "Name": "Booker",
+            "Zip": "79005"
+        },
+        {
+            "Name": "Borger",
+            "Zip": "79007"
+        },
+        {
+            "Name": "Bovina",
+            "Zip": "79009"
+        },
+        {
+            "Name": "Bowie",
+            "Zip": "76230"
+        },
+        {
+            "Name": "Boyd",
+            "Zip": "76023"
+        },
+        {
+            "Name": "Boys Ranch",
+            "Zip": "79010"
+        },
+        {
+            "Name": "Brackettville",
+            "Zip": "78832"
+        },
+        {
+            "Name": "Brady",
+            "Zip": "76825"
+        },
+        {
+            "Name": "Brandon",
+            "Zip": "76628"
+        },
+        {
+            "Name": "Brashear",
+            "Zip": "75420"
+        },
+        {
+            "Name": "Brazoria",
+            "Zip": "77422"
+        },
+        {
+            "Name": "Breckenridge",
+            "Zip": "76424"
+        },
+        {
+            "Name": "Bremond",
+            "Zip": "76629"
+        },
+        {
+            "Name": "Brenham",
+            "Zip": "77833"
+        },
+        {
+            "Name": "Bridge City",
+            "Zip": "77611"
+        },
+        {
+            "Name": "Bridgeport",
+            "Zip": "76426"
+        },
+        {
+            "Name": "Briggs",
+            "Zip": "78608"
+        },
+        {
+            "Name": "Briscoe",
+            "Zip": "79011"
+        },
+        {
+            "Name": "Broaddus",
+            "Zip": "75929"
+        },
+        {
+            "Name": "Bronson",
+            "Zip": "75930"
+        },
+        {
+            "Name": "Bronte",
+            "Zip": "76933"
+        },
+        {
+            "Name": "Brookeland",
+            "Zip": "75931"
+        },
+        {
+            "Name": "Brookesmith",
+            "Zip": "76827"
+        },
+        {
+            "Name": "Brookshire",
+            "Zip": "77423"
+        },
+        {
+            "Name": "Brookston",
+            "Zip": "75421"
+        },
+        {
+            "Name": "Brownfield",
+            "Zip": "79316"
+        },
+        {
+            "Name": "Brownsboro",
+            "Zip": "75756"
+        },
+        {
+            "Name": "Brownsville",
+            "Zip": "78520"
+        },
+        {
+            "Name": "Brownwood",
+            "Zip": "76801"
+        },
+        {
+            "Name": "Bruceville",
+            "Zip": "76630"
+        },
+        {
+            "Name": "Bruni",
+            "Zip": "78344"
+        },
+        {
+            "Name": "Bryan",
+            "Zip": "77801"
+        },
+        {
+            "Name": "Bryson",
+            "Zip": "76427"
+        },
+        {
+            "Name": "Buchanan Dam",
+            "Zip": "78609"
+        },
+        {
+            "Name": "Buckholts",
+            "Zip": "76518"
+        },
+        {
+            "Name": "Buda",
+            "Zip": "78610"
+        },
+        {
+            "Name": "Buffalo",
+            "Zip": "75831"
+        },
+        {
+            "Name": "Buffalo Gap",
+            "Zip": "79508"
+        },
+        {
+            "Name": "Bula",
+            "Zip": "79320"
+        },
+        {
+            "Name": "Bullard",
+            "Zip": "75757"
+        },
+        {
+            "Name": "Bulverde",
+            "Zip": "78163"
+        },
+        {
+            "Name": "Buna",
+            "Zip": "77612"
+        },
+        {
+            "Name": "Burkburnett",
+            "Zip": "76354"
+        },
+        {
+            "Name": "Burkett",
+            "Zip": "76828"
+        },
+        {
+            "Name": "Burkeville",
+            "Zip": "75932"
+        },
+        {
+            "Name": "Burleson",
+            "Zip": "76028"
+        },
+        {
+            "Name": "Burlington",
+            "Zip": "76519"
+        },
+        {
+            "Name": "Burnet",
+            "Zip": "78611"
+        },
+        {
+            "Name": "Burton",
+            "Zip": "77835"
+        },
+        {
+            "Name": "Bushland",
+            "Zip": "79012"
+        },
+        {
+            "Name": "Byers",
+            "Zip": "76357"
+        },
+        {
+            "Name": "Bynum",
+            "Zip": "76631"
+        },
+        {
+            "Name": "Cactus",
+            "Zip": "79013"
+        },
+        {
+            "Name": "Caddo",
+            "Zip": "76429"
+        },
+        {
+            "Name": "Caddo Mills",
+            "Zip": "75135"
+        },
+        {
+            "Name": "Caldwell",
+            "Zip": "77836"
+        },
+        {
+            "Name": "Call",
+            "Zip": "75933"
+        },
+        {
+            "Name": "Calliham",
+            "Zip": "78007"
+        },
+        {
+            "Name": "Calvert",
+            "Zip": "77837"
+        },
+        {
+            "Name": "Camden",
+            "Zip": "75934"
+        },
+        {
+            "Name": "Cameron",
+            "Zip": "76520"
+        },
+        {
+            "Name": "Camp Wood",
+            "Zip": "78833"
+        },
+        {
+            "Name": "Campbell",
+            "Zip": "75422"
+        },
+        {
+            "Name": "Campbellton",
+            "Zip": "78008"
+        },
+        {
+            "Name": "Canadian",
+            "Zip": "79014"
+        },
+        {
+            "Name": "Canton",
+            "Zip": "75103"
+        },
+        {
+            "Name": "Canutillo",
+            "Zip": "79835"
+        },
+        {
+            "Name": "Canyon",
+            "Zip": "79015"
+        },
+        {
+            "Name": "Canyon Lake",
+            "Zip": "78133"
+        },
+        {
+            "Name": "Carbon",
+            "Zip": "76435"
+        },
+        {
+            "Name": "Carey",
+            "Zip": "79222"
+        },
+        {
+            "Name": "Carlsbad",
+            "Zip": "76934"
+        },
+        {
+            "Name": "Carlton",
+            "Zip": "76436"
+        },
+        {
+            "Name": "Carmine",
+            "Zip": "78932"
+        },
+        {
+            "Name": "Carrizo Springs",
+            "Zip": "78834"
+        },
+        {
+            "Name": "Carrollton",
+            "Zip": "75006"
+        },
+        {
+            "Name": "Carthage",
+            "Zip": "75633"
+        },
+        {
+            "Name": "Cason",
+            "Zip": "75636"
+        },
+        {
+            "Name": "Castell",
+            "Zip": "76831"
+        },
+        {
+            "Name": "Castroville",
+            "Zip": "78009"
+        },
+        {
+            "Name": "Cat Spring",
+            "Zip": "78933"
+        },
+        {
+            "Name": "Catarina",
+            "Zip": "78836"
+        },
+        {
+            "Name": "Cayuga",
+            "Zip": "75832"
+        },
+        {
+            "Name": "Cedar Creek",
+            "Zip": "78612"
+        },
+        {
+            "Name": "Cedar Hill",
+            "Zip": "75104"
+        },
+        {
+            "Name": "Cedar Lane",
+            "Zip": "77415"
+        },
+        {
+            "Name": "Cedar Park",
+            "Zip": "78613"
+        },
+        {
+            "Name": "Cee Vee",
+            "Zip": "79223"
+        },
+        {
+            "Name": "Celeste",
+            "Zip": "75423"
+        },
+        {
+            "Name": "Celina",
+            "Zip": "75009"
+        },
+        {
+            "Name": "Center",
+            "Zip": "75935"
+        },
+        {
+            "Name": "Center Point",
+            "Zip": "78010"
+        },
+        {
+            "Name": "Centerville",
+            "Zip": "75833"
+        },
+        {
+            "Name": "Centralia",
+            "Zip": "75834"
+        },
+        {
+            "Name": "Chalk",
+            "Zip": "79224"
+        },
+        {
+            "Name": "Chandler",
+            "Zip": "75758"
+        },
+        {
+            "Name": "Channelview",
+            "Zip": "77530"
+        },
+        {
+            "Name": "Channing",
+            "Zip": "79018"
+        },
+        {
+            "Name": "Chapman Ranch",
+            "Zip": "78347"
+        },
+        {
+            "Name": "Chappell Hill",
+            "Zip": "77426"
+        },
+        {
+            "Name": "Charlotte",
+            "Zip": "78011"
+        },
+        {
+            "Name": "Chatfield",
+            "Zip": "75105"
+        },
+        {
+            "Name": "Cherokee",
+            "Zip": "76832"
+        },
+        {
+            "Name": "Chester",
+            "Zip": "75936"
+        },
+        {
+            "Name": "Chico",
+            "Zip": "76431"
+        },
+        {
+            "Name": "Chicota",
+            "Zip": "75425"
+        },
+        {
+            "Name": "Childress",
+            "Zip": "79201"
+        },
+        {
+            "Name": "Chillicothe",
+            "Zip": "79225"
+        },
+        {
+            "Name": "Chilton",
+            "Zip": "76632"
+        },
+        {
+            "Name": "China",
+            "Zip": "77613"
+        },
+        {
+            "Name": "China Spring",
+            "Zip": "76633"
+        },
+        {
+            "Name": "Chireno",
+            "Zip": "75937"
+        },
+        {
+            "Name": "Chriesman",
+            "Zip": "77838"
+        },
+        {
+            "Name": "Christine",
+            "Zip": "78012"
+        },
+        {
+            "Name": "Christoval",
+            "Zip": "76935"
+        },
+        {
+            "Name": "Cibolo",
+            "Zip": "78108"
+        },
+        {
+            "Name": "Cisco",
+            "Zip": "76437"
+        },
+        {
+            "Name": "Clarendon",
+            "Zip": "79226"
+        },
+        {
+            "Name": "Clarksville",
+            "Zip": "75426"
+        },
+        {
+            "Name": "Claude",
+            "Zip": "79019"
+        },
+        {
+            "Name": "Clay",
+            "Zip": "77839"
+        },
+        {
+            "Name": "Clayton",
+            "Zip": "75637"
+        },
+        {
+            "Name": "Cleburne",
+            "Zip": "76031"
+        },
+        {
+            "Name": "Cleveland",
+            "Zip": "77327"
+        },
+        {
+            "Name": "Clifton",
+            "Zip": "76634"
+        },
+        {
+            "Name": "Clint",
+            "Zip": "79836"
+        },
+        {
+            "Name": "Clute",
+            "Zip": "77531"
+        },
+        {
+            "Name": "Clyde",
+            "Zip": "79510"
+        },
+        {
+            "Name": "Coahoma",
+            "Zip": "79511"
+        },
+        {
+            "Name": "Coldspring",
+            "Zip": "77331"
+        },
+        {
+            "Name": "Coleman",
+            "Zip": "76834"
+        },
+        {
+            "Name": "College Station",
+            "Zip": "77840"
+        },
+        {
+            "Name": "Collegeport",
+            "Zip": "77428"
+        },
+        {
+            "Name": "Colleyville",
+            "Zip": "76034"
+        },
+        {
+            "Name": "Collinsville",
+            "Zip": "76233"
+        },
+        {
+            "Name": "Colmesneil",
+            "Zip": "75938"
+        },
+        {
+            "Name": "Colorado City",
+            "Zip": "79512"
+        },
+        {
+            "Name": "Columbus",
+            "Zip": "78934"
+        },
+        {
+            "Name": "Comanche",
+            "Zip": "76442"
+        },
+        {
+            "Name": "Combes",
+            "Zip": "78535"
+        },
+        {
+            "Name": "Comfort",
+            "Zip": "78013"
+        },
+        {
+            "Name": "Commerce",
+            "Zip": "75428"
+        },
+        {
+            "Name": "Como",
+            "Zip": "75431"
+        },
+        {
+            "Name": "Comstock",
+            "Zip": "78837"
+        },
+        {
+            "Name": "Concan",
+            "Zip": "78838"
+        },
+        {
+            "Name": "Concepcion",
+            "Zip": "78349"
+        },
+        {
+            "Name": "Concord",
+            "Zip": "77850"
+        },
+        {
+            "Name": "Cone",
+            "Zip": "79321"
+        },
+        {
+            "Name": "Conroe",
+            "Zip": "77301"
+        },
+        {
+            "Name": "Converse",
+            "Zip": "78109"
+        },
+        {
+            "Name": "Cookville",
+            "Zip": "75558"
+        },
+        {
+            "Name": "Coolidge",
+            "Zip": "76635"
+        },
+        {
+            "Name": "Cooper",
+            "Zip": "75432"
+        },
+        {
+            "Name": "Copeville",
+            "Zip": "75121"
+        },
+        {
+            "Name": "Coppell",
+            "Zip": "75019"
+        },
+        {
+            "Name": "Copperas Cove",
+            "Zip": "76522"
+        },
+        {
+            "Name": "Corpus Christi",
+            "Zip": "78401"
+        },
+        {
+            "Name": "Corrigan",
+            "Zip": "75939"
+        },
+        {
+            "Name": "Corsicana",
+            "Zip": "75109"
+        },
+        {
+            "Name": "Cost",
+            "Zip": "78614"
+        },
+        {
+            "Name": "Cotton Center",
+            "Zip": "79021"
+        },
+        {
+            "Name": "Cotulla",
+            "Zip": "78014"
+        },
+        {
+            "Name": "Coupland",
+            "Zip": "78615"
+        },
+        {
+            "Name": "Covington",
+            "Zip": "76636"
+        },
+        {
+            "Name": "Coyanosa",
+            "Zip": "79730"
+        },
+        {
+            "Name": "Crandall",
+            "Zip": "75114"
+        },
+        {
+            "Name": "Crane",
+            "Zip": "79731"
+        },
+        {
+            "Name": "Cranfills Gap",
+            "Zip": "76637"
+        },
+        {
+            "Name": "Crawford",
+            "Zip": "76638"
+        },
+        {
+            "Name": "Cresson",
+            "Zip": "76035"
+        },
+        {
+            "Name": "Crockett",
+            "Zip": "75835"
+        },
+        {
+            "Name": "Crosby",
+            "Zip": "77532"
+        },
+        {
+            "Name": "Crosbyton",
+            "Zip": "79322"
+        },
+        {
+            "Name": "Cross Plains",
+            "Zip": "76443"
+        },
+        {
+            "Name": "Crowell",
+            "Zip": "79227"
+        },
+        {
+            "Name": "Crowley",
+            "Zip": "76036"
+        },
+        {
+            "Name": "Crystal City",
+            "Zip": "78839"
+        },
+        {
+            "Name": "Cuero",
+            "Zip": "77954"
+        },
+        {
+            "Name": "Cumby",
+            "Zip": "75433"
+        },
+        {
+            "Name": "Cuney",
+            "Zip": "75759"
+        },
+        {
+            "Name": "Cunningham",
+            "Zip": "75434"
+        },
+        {
+            "Name": "Cushing",
+            "Zip": "75760"
+        },
+        {
+            "Name": "Cypress",
+            "Zip": "77410"
+        },
+        {
+            "Name": "D Hanis",
+            "Zip": "78850"
+        },
+        {
+            "Name": "Daingerfield",
+            "Zip": "75638"
+        },
+        {
+            "Name": "Daisetta",
+            "Zip": "77533"
+        },
+        {
+            "Name": "Dale",
+            "Zip": "78616"
+        },
+        {
+            "Name": "Dalhart",
+            "Zip": "79022"
+        },
+        {
+            "Name": "Dallardsville",
+            "Zip": "77332"
+        },
+        {
+            "Name": "Dallas",
+            "Zip": "75201"
+        },
+        {
+            "Name": "Damon",
+            "Zip": "77430"
+        },
+        {
+            "Name": "Danbury",
+            "Zip": "77534"
+        },
+        {
+            "Name": "Danciger",
+            "Zip": "77431"
+        },
+        {
+            "Name": "Danevang",
+            "Zip": "77432"
+        },
+        {
+            "Name": "Darrouzett",
+            "Zip": "79024"
+        },
+        {
+            "Name": "Davilla",
+            "Zip": "76523"
+        },
+        {
+            "Name": "Dawn",
+            "Zip": "79025"
+        },
+        {
+            "Name": "Dawson",
+            "Zip": "76639"
+        },
+        {
+            "Name": "Dayton",
+            "Zip": "77535"
+        },
+        {
+            "Name": "De Berry",
+            "Zip": "75639"
+        },
+        {
+            "Name": "De Kalb",
+            "Zip": "75559"
+        },
+        {
+            "Name": "De Leon",
+            "Zip": "76444"
+        },
+        {
+            "Name": "Deanville",
+            "Zip": "77852"
+        },
+        {
+            "Name": "Decatur",
+            "Zip": "76234"
+        },
+        {
+            "Name": "Deer Park",
+            "Zip": "77536"
+        },
+        {
+            "Name": "Del Rio",
+            "Zip": "78835"
+        },
+        {
+            "Name": "Del Valle",
+            "Zip": "78617"
+        },
+        {
+            "Name": "Dell City",
+            "Zip": "79837"
+        },
+        {
+            "Name": "Delmita",
+            "Zip": "78536"
+        },
+        {
+            "Name": "Denison",
+            "Zip": "75020"
+        },
+        {
+            "Name": "Dennis",
+            "Zip": "76439"
+        },
+        {
+            "Name": "Denton",
+            "Zip": "76201"
+        },
+        {
+            "Name": "Denver City",
+            "Zip": "79323"
+        },
+        {
+            "Name": "Deport",
+            "Zip": "75435"
+        },
+        {
+            "Name": "Desdemona",
+            "Zip": "76445"
+        },
+        {
+            "Name": "Desoto",
+            "Zip": "75115"
+        },
+        {
+            "Name": "Detroit",
+            "Zip": "75436"
+        },
+        {
+            "Name": "Devers",
+            "Zip": "77538"
+        },
+        {
+            "Name": "Devine",
+            "Zip": "78016"
+        },
+        {
+            "Name": "Deweyville",
+            "Zip": "77614"
+        },
+        {
+            "Name": "Diana",
+            "Zip": "75640"
+        },
+        {
+            "Name": "Diboll",
+            "Zip": "75941"
+        },
+        {
+            "Name": "Dickens",
+            "Zip": "79229"
+        },
+        {
+            "Name": "Dickinson",
+            "Zip": "77539"
+        },
+        {
+            "Name": "Dike",
+            "Zip": "75437"
+        },
+        {
+            "Name": "Dilley",
+            "Zip": "78017"
+        },
+        {
+            "Name": "Dime Box",
+            "Zip": "77853"
+        },
+        {
+            "Name": "Dimmitt",
+            "Zip": "79027"
+        },
+        {
+            "Name": "Dinero",
+            "Zip": "78350"
+        },
+        {
+            "Name": "Dobbin",
+            "Zip": "77333"
+        },
+        {
+            "Name": "Dodd City",
+            "Zip": "75438"
+        },
+        {
+            "Name": "Dodge",
+            "Zip": "77334"
+        },
+        {
+            "Name": "Dodson",
+            "Zip": "79230"
+        },
+        {
+            "Name": "Donie",
+            "Zip": "75838"
+        },
+        {
+            "Name": "Donna",
+            "Zip": "78537"
+        },
+        {
+            "Name": "Doole",
+            "Zip": "76836"
+        },
+        {
+            "Name": "Doss",
+            "Zip": "78618"
+        },
+        {
+            "Name": "Doucette",
+            "Zip": "75942"
+        },
+        {
+            "Name": "Dougherty",
+            "Zip": "79231"
+        },
+        {
+            "Name": "Douglass",
+            "Zip": "75943"
+        },
+        {
+            "Name": "Douglassville",
+            "Zip": "75560"
+        },
+        {
+            "Name": "Driftwood",
+            "Zip": "78619"
+        },
+        {
+            "Name": "Dripping Springs",
+            "Zip": "78620"
+        },
+        {
+            "Name": "Driscoll",
+            "Zip": "78351"
+        },
+        {
+            "Name": "Dryden",
+            "Zip": "78851"
+        },
+        {
+            "Name": "Dublin",
+            "Zip": "76446"
+        },
+        {
+            "Name": "Dumas",
+            "Zip": "79029"
+        },
+        {
+            "Name": "Dumont",
+            "Zip": "79232"
+        },
+        {
+            "Name": "Duncanville",
+            "Zip": "75116"
+        },
+        {
+            "Name": "Dunn",
+            "Zip": "79516"
+        },
+        {
+            "Name": "Dyess Afb",
+            "Zip": "79607"
+        },
+        {
+            "Name": "Eagle Lake",
+            "Zip": "77434"
+        },
+        {
+            "Name": "Eagle Pass",
+            "Zip": "78852"
+        },
+        {
+            "Name": "Early",
+            "Zip": "76802"
+        },
+        {
+            "Name": "Earth",
+            "Zip": "79031"
+        },
+        {
+            "Name": "East Bernard",
+            "Zip": "77435"
+        },
+        {
+            "Name": "Eastland",
+            "Zip": "76448"
+        },
+        {
+            "Name": "Easton",
+            "Zip": "75641"
+        },
+        {
+            "Name": "Ecleto",
+            "Zip": "78111"
+        },
+        {
+            "Name": "Ector",
+            "Zip": "75439"
+        },
+        {
+            "Name": "Edcouch",
+            "Zip": "78538"
+        },
+        {
+            "Name": "Eddy",
+            "Zip": "76524"
+        },
+        {
+            "Name": "Eden",
+            "Zip": "76837"
+        },
+        {
+            "Name": "Edgewood",
+            "Zip": "75117"
+        },
+        {
+            "Name": "Edinburg",
+            "Zip": "78539"
+        },
+        {
+            "Name": "Edmonson",
+            "Zip": "79032"
+        },
+        {
+            "Name": "Edna",
+            "Zip": "77957"
+        },
+        {
+            "Name": "Edroy",
+            "Zip": "78352"
+        },
+        {
+            "Name": "Egypt",
+            "Zip": "77436"
+        },
+        {
+            "Name": "El Campo",
+            "Zip": "77437"
+        },
+        {
+            "Name": "El Indio",
+            "Zip": "78860"
+        },
+        {
+            "Name": "El Paso",
+            "Zip": "79901"
+        },
+        {
+            "Name": "Elbert",
+            "Zip": "76359"
+        },
+        {
+            "Name": "Eldorado",
+            "Zip": "76936"
+        },
+        {
+            "Name": "Electra",
+            "Zip": "76360"
+        },
+        {
+            "Name": "Elgin",
+            "Zip": "78621"
+        },
+        {
+            "Name": "Elkhart",
+            "Zip": "75839"
+        },
+        {
+            "Name": "Ellinger",
+            "Zip": "78938"
+        },
+        {
+            "Name": "Elm Mott",
+            "Zip": "76640"
+        },
+        {
+            "Name": "Elmaton",
+            "Zip": "77440"
+        },
+        {
+            "Name": "Elmendorf",
+            "Zip": "78112"
+        },
+        {
+            "Name": "Elmo",
+            "Zip": "75118"
+        },
+        {
+            "Name": "Elsa",
+            "Zip": "78543"
+        },
+        {
+            "Name": "Elysian Fields",
+            "Zip": "75642"
+        },
+        {
+            "Name": "Emory",
+            "Zip": "75440"
+        },
+        {
+            "Name": "Encinal",
+            "Zip": "78019"
+        },
+        {
+            "Name": "Encino",
+            "Zip": "78353"
+        },
+        {
+            "Name": "Energy",
+            "Zip": "76452"
+        },
+        {
+            "Name": "Enloe",
+            "Zip": "75441"
+        },
+        {
+            "Name": "Ennis",
+            "Zip": "75119"
+        },
+        {
+            "Name": "Enochs",
+            "Zip": "79324"
+        },
+        {
+            "Name": "Eola",
+            "Zip": "76937"
+        },
+        {
+            "Name": "Era",
+            "Zip": "76238"
+        },
+        {
+            "Name": "Estelline",
+            "Zip": "79233"
+        },
+        {
+            "Name": "Etoile",
+            "Zip": "75944"
+        },
+        {
+            "Name": "Euless",
+            "Zip": "76039"
+        },
+        {
+            "Name": "Eustace",
+            "Zip": "75124"
+        },
+        {
+            "Name": "Evadale",
+            "Zip": "77615"
+        },
+        {
+            "Name": "Evant",
+            "Zip": "76525"
+        },
+        {
+            "Name": "Fabens",
+            "Zip": "79838"
+        },
+        {
+            "Name": "Fairfield",
+            "Zip": "75840"
+        },
+        {
+            "Name": "Falcon Heights",
+            "Zip": "78545"
+        },
+        {
+            "Name": "Falfurrias",
+            "Zip": "78355"
+        },
+        {
+            "Name": "Falls City",
+            "Zip": "78113"
+        },
+        {
+            "Name": "Fannin",
+            "Zip": "77960"
+        },
+        {
+            "Name": "Farmersville",
+            "Zip": "75442"
+        },
+        {
+            "Name": "Farnsworth",
+            "Zip": "79033"
+        },
+        {
+            "Name": "Farwell",
+            "Zip": "79325"
+        },
+        {
+            "Name": "Fate",
+            "Zip": "75132"
+        },
+        {
+            "Name": "Fayetteville",
+            "Zip": "78940"
+        },
+        {
+            "Name": "Fentress",
+            "Zip": "78622"
+        },
+        {
+            "Name": "Ferris",
+            "Zip": "75125"
+        },
+        {
+            "Name": "Fieldton",
+            "Zip": "79326"
+        },
+        {
+            "Name": "Fischer",
+            "Zip": "78623"
+        },
+        {
+            "Name": "Flat",
+            "Zip": "76526"
+        },
+        {
+            "Name": "Flatonia",
+            "Zip": "78941"
+        },
+        {
+            "Name": "Flint",
+            "Zip": "75762"
+        },
+        {
+            "Name": "Flomot",
+            "Zip": "79234"
+        },
+        {
+            "Name": "Florence",
+            "Zip": "76527"
+        },
+        {
+            "Name": "Floresville",
+            "Zip": "78114"
+        },
+        {
+            "Name": "Flower Mound",
+            "Zip": "75022"
+        },
+        {
+            "Name": "Floydada",
+            "Zip": "79235"
+        },
+        {
+            "Name": "Fluvanna",
+            "Zip": "79517"
+        },
+        {
+            "Name": "Flynn",
+            "Zip": "77855"
+        },
+        {
+            "Name": "Follett",
+            "Zip": "79034"
+        },
+        {
+            "Name": "Forestburg",
+            "Zip": "76239"
+        },
+        {
+            "Name": "Forney",
+            "Zip": "75126"
+        },
+        {
+            "Name": "Forreston",
+            "Zip": "76041"
+        },
+        {
+            "Name": "Forsan",
+            "Zip": "79733"
+        },
+        {
+            "Name": "Fort Davis",
+            "Zip": "79734"
+        },
+        {
+            "Name": "Fort Hancock",
+            "Zip": "79839"
+        },
+        {
+            "Name": "Fort Mc Kavett",
+            "Zip": "76841"
+        },
+        {
+            "Name": "Fort Stockton",
+            "Zip": "79735"
+        },
+        {
+            "Name": "Fort Worth",
+            "Zip": "76101"
+        },
+        {
+            "Name": "Fowlerton",
+            "Zip": "78021"
+        },
+        {
+            "Name": "Francitas",
+            "Zip": "77961"
+        },
+        {
+            "Name": "Franklin",
+            "Zip": "77856"
+        },
+        {
+            "Name": "Frankston",
+            "Zip": "75763"
+        },
+        {
+            "Name": "Fred",
+            "Zip": "77616"
+        },
+        {
+            "Name": "Fredericksburg",
+            "Zip": "78624"
+        },
+        {
+            "Name": "Fredonia",
+            "Zip": "76842"
+        },
+        {
+            "Name": "Freeport",
+            "Zip": "77541"
+        },
+        {
+            "Name": "Freer",
+            "Zip": "78357"
+        },
+        {
+            "Name": "Fresno",
+            "Zip": "77545"
+        },
+        {
+            "Name": "Friendswood",
+            "Zip": "77546"
+        },
+        {
+            "Name": "Friona",
+            "Zip": "79035"
+        },
+        {
+            "Name": "FRISCO",
+            "Zip": "75033"
+        },
+        {
+            "Name": "Fritch",
+            "Zip": "79036"
+        },
+        {
+            "Name": "Frost",
+            "Zip": "76641"
+        },
+        {
+            "Name": "Fruitvale",
+            "Zip": "75127"
+        },
+        {
+            "Name": "Fulshear",
+            "Zip": "77441"
+        },
+        {
+            "Name": "Fulton",
+            "Zip": "78358"
+        },
+        {
+            "Name": "Gail",
+            "Zip": "79738"
+        },
+        {
+            "Name": "Gainesville",
+            "Zip": "76240"
+        },
+        {
+            "Name": "Galena Park",
+            "Zip": "77547"
+        },
+        {
+            "Name": "Gallatin",
+            "Zip": "75764"
+        },
+        {
+            "Name": "Galveston",
+            "Zip": "77550"
+        },
+        {
+            "Name": "Ganado",
+            "Zip": "77962"
+        },
+        {
+            "Name": "Garciasville",
+            "Zip": "78547"
+        },
+        {
+            "Name": "Garden City",
+            "Zip": "79739"
+        },
+        {
+            "Name": "Gardendale",
+            "Zip": "79758"
+        },
+        {
+            "Name": "Garland",
+            "Zip": "75040"
+        },
+        {
+            "Name": "Garrison",
+            "Zip": "75946"
+        },
+        {
+            "Name": "Garwood",
+            "Zip": "77442"
+        },
+        {
+            "Name": "Gary",
+            "Zip": "75643"
+        },
+        {
+            "Name": "Gatesville",
+            "Zip": "76528"
+        },
+        {
+            "Name": "Gause",
+            "Zip": "77857"
+        },
+        {
+            "Name": "Geneva",
+            "Zip": "75947"
+        },
+        {
+            "Name": "George West",
+            "Zip": "78022"
+        },
+        {
+            "Name": "Georgetown",
+            "Zip": "78626"
+        },
+        {
+            "Name": "Geronimo",
+            "Zip": "78115"
+        },
+        {
+            "Name": "Giddings",
+            "Zip": "78942"
+        },
+        {
+            "Name": "Gilchrist",
+            "Zip": "77617"
+        },
+        {
+            "Name": "Gillett",
+            "Zip": "78116"
+        },
+        {
+            "Name": "Gilmer",
+            "Zip": "75644"
+        },
+        {
+            "Name": "Girard",
+            "Zip": "79518"
+        },
+        {
+            "Name": "Girvin",
+            "Zip": "79740"
+        },
+        {
+            "Name": "Gladewater",
+            "Zip": "75647"
+        },
+        {
+            "Name": "Glen Flora",
+            "Zip": "77443"
+        },
+        {
+            "Name": "Glen Rose",
+            "Zip": "76043"
+        },
+        {
+            "Name": "Glidden",
+            "Zip": "78943"
+        },
+        {
+            "Name": "Gober",
+            "Zip": "75443"
+        },
+        {
+            "Name": "Godley",
+            "Zip": "76044"
+        },
+        {
+            "Name": "Golden",
+            "Zip": "75444"
+        },
+        {
+            "Name": "Goldsboro",
+            "Zip": "79519"
+        },
+        {
+            "Name": "Goldsmith",
+            "Zip": "79741"
+        },
+        {
+            "Name": "Goldthwaite",
+            "Zip": "76844"
+        },
+        {
+            "Name": "Goliad",
+            "Zip": "77963"
+        },
+        {
+            "Name": "Gonzales",
+            "Zip": "78629"
+        },
+        {
+            "Name": "Goodfellow Afb",
+            "Zip": "76908"
+        },
+        {
+            "Name": "Goodrich",
+            "Zip": "77335"
+        },
+        {
+            "Name": "Gordon",
+            "Zip": "76453"
+        },
+        {
+            "Name": "Gordonville",
+            "Zip": "76245"
+        },
+        {
+            "Name": "Goree",
+            "Zip": "76363"
+        },
+        {
+            "Name": "Gorman",
+            "Zip": "76454"
+        },
+        {
+            "Name": "Gouldbusk",
+            "Zip": "76845"
+        },
+        {
+            "Name": "Graford",
+            "Zip": "76449"
+        },
+        {
+            "Name": "Graham",
+            "Zip": "76450"
+        },
+        {
+            "Name": "Granbury",
+            "Zip": "76048"
+        },
+        {
+            "Name": "Grand Prairie",
+            "Zip": "75050"
+        },
+        {
+            "Name": "Grand Saline",
+            "Zip": "75140"
+        },
+        {
+            "Name": "Grandfalls",
+            "Zip": "79742"
+        },
+        {
+            "Name": "Grandview",
+            "Zip": "76050"
+        },
+        {
+            "Name": "Granger",
+            "Zip": "76530"
+        },
+        {
+            "Name": "Grapeland",
+            "Zip": "75844"
+        },
+        {
+            "Name": "Grapevine",
+            "Zip": "76051"
+        },
+        {
+            "Name": "Greenville",
+            "Zip": "75401"
+        },
+        {
+            "Name": "Greenwood",
+            "Zip": "76246"
+        },
+        {
+            "Name": "Gregory",
+            "Zip": "78359"
+        },
+        {
+            "Name": "Groesbeck",
+            "Zip": "76642"
+        },
+        {
+            "Name": "Groom",
+            "Zip": "79039"
+        },
+        {
+            "Name": "Groves",
+            "Zip": "77619"
+        },
+        {
+            "Name": "Groveton",
+            "Zip": "75845"
+        },
+        {
+            "Name": "Grulla",
+            "Zip": "78548"
+        },
+        {
+            "Name": "Gruver",
+            "Zip": "79040"
+        },
+        {
+            "Name": "Guerra",
+            "Zip": "78360"
+        },
+        {
+            "Name": "Gunter",
+            "Zip": "75058"
+        },
+        {
+            "Name": "Gustine",
+            "Zip": "76455"
+        },
+        {
+            "Name": "Guthrie",
+            "Zip": "79236"
+        },
+        {
+            "Name": "Guy",
+            "Zip": "77444"
+        },
+        {
+            "Name": "Hale Center",
+            "Zip": "79041"
+        },
+        {
+            "Name": "Hallettsville",
+            "Zip": "77964"
+        },
+        {
+            "Name": "Hallsville",
+            "Zip": "75650"
+        },
+        {
+            "Name": "Haltom City",
+            "Zip": "76117"
+        },
+        {
+            "Name": "Hamilton",
+            "Zip": "76531"
+        },
+        {
+            "Name": "Hamlin",
+            "Zip": "79520"
+        },
+        {
+            "Name": "Hamshire",
+            "Zip": "77622"
+        },
+        {
+            "Name": "Hankamer",
+            "Zip": "77560"
+        },
+        {
+            "Name": "Happy",
+            "Zip": "79042"
+        },
+        {
+            "Name": "Hardin",
+            "Zip": "77561"
+        },
+        {
+            "Name": "Hargill",
+            "Zip": "78549"
+        },
+        {
+            "Name": "Harker Heights",
+            "Zip": "76548"
+        },
+        {
+            "Name": "Harleton",
+            "Zip": "75651"
+        },
+        {
+            "Name": "Harlingen",
+            "Zip": "78550"
+        },
+        {
+            "Name": "Harper",
+            "Zip": "78631"
+        },
+        {
+            "Name": "Harrold",
+            "Zip": "76364"
+        },
+        {
+            "Name": "Hart",
+            "Zip": "79043"
+        },
+        {
+            "Name": "Hartley",
+            "Zip": "79044"
+        },
+        {
+            "Name": "Harwood",
+            "Zip": "78632"
+        },
+        {
+            "Name": "Haskell",
+            "Zip": "79521"
+        },
+        {
+            "Name": "Haslet",
+            "Zip": "76052"
+        },
+        {
+            "Name": "Hasse",
+            "Zip": "76456"
+        },
+        {
+            "Name": "Hawkins",
+            "Zip": "75765"
+        },
+        {
+            "Name": "Hawley",
+            "Zip": "79525"
+        },
+        {
+            "Name": "Hearne",
+            "Zip": "77859"
+        },
+        {
+            "Name": "Hebbronville",
+            "Zip": "78361"
+        },
+        {
+            "Name": "Hedley",
+            "Zip": "79237"
+        },
+        {
+            "Name": "Heidenheimer",
+            "Zip": "76533"
+        },
+        {
+            "Name": "Helotes",
+            "Zip": "78023"
+        },
+        {
+            "Name": "Hemphill",
+            "Zip": "75948"
+        },
+        {
+            "Name": "Hempstead",
+            "Zip": "77445"
+        },
+        {
+            "Name": "Henderson",
+            "Zip": "75652"
+        },
+        {
+            "Name": "Henrietta",
+            "Zip": "76365"
+        },
+        {
+            "Name": "Hereford",
+            "Zip": "79045"
+        },
+        {
+            "Name": "Hermleigh",
+            "Zip": "79526"
+        },
+        {
+            "Name": "Hewitt",
+            "Zip": "76643"
+        },
+        {
+            "Name": "Hext",
+            "Zip": "76848"
+        },
+        {
+            "Name": "Hico",
+            "Zip": "76457"
+        },
+        {
+            "Name": "Hidalgo",
+            "Zip": "78557"
+        },
+        {
+            "Name": "Higgins",
+            "Zip": "79046"
+        },
+        {
+            "Name": "High Island",
+            "Zip": "77623"
+        },
+        {
+            "Name": "Highlands",
+            "Zip": "77562"
+        },
+        {
+            "Name": "Hillister",
+            "Zip": "77624"
+        },
+        {
+            "Name": "Hillsboro",
+            "Zip": "76645"
+        },
+        {
+            "Name": "Hitchcock",
+            "Zip": "77563"
+        },
+        {
+            "Name": "Hobson",
+            "Zip": "78117"
+        },
+        {
+            "Name": "Hochheim",
+            "Zip": "77967"
+        },
+        {
+            "Name": "Hockley",
+            "Zip": "77447"
+        },
+        {
+            "Name": "Holland",
+            "Zip": "76534"
+        },
+        {
+            "Name": "Holliday",
+            "Zip": "76366"
+        },
+        {
+            "Name": "Hondo",
+            "Zip": "78861"
+        },
+        {
+            "Name": "Honey Grove",
+            "Zip": "75446"
+        },
+        {
+            "Name": "Hooks",
+            "Zip": "75561"
+        },
+        {
+            "Name": "Houston",
+            "Zip": "77001"
+        },
+        {
+            "Name": "Howe",
+            "Zip": "75459"
+        },
+        {
+            "Name": "Hubbard",
+            "Zip": "76648"
+        },
+        {
+            "Name": "Huffman",
+            "Zip": "77336"
+        },
+        {
+            "Name": "Hufsmith",
+            "Zip": "77337"
+        },
+        {
+            "Name": "Hughes Springs",
+            "Zip": "75656"
+        },
+        {
+            "Name": "Hull",
+            "Zip": "77564"
+        },
+        {
+            "Name": "Humble",
+            "Zip": "77325"
+        },
+        {
+            "Name": "Hungerford",
+            "Zip": "77448"
+        },
+        {
+            "Name": "Hunt",
+            "Zip": "78024"
+        },
+        {
+            "Name": "Huntington",
+            "Zip": "75949"
+        },
+        {
+            "Name": "Huntsville",
+            "Zip": "77320"
+        },
+        {
+            "Name": "Hurst",
+            "Zip": "76053"
+        },
+        {
+            "Name": "Hutchins",
+            "Zip": "75141"
+        },
+        {
+            "Name": "Hutto",
+            "Zip": "78634"
+        },
+        {
+            "Name": "Hye",
+            "Zip": "78635"
+        },
+        {
+            "Name": "Idalou",
+            "Zip": "79329"
+        },
+        {
+            "Name": "Imperial",
+            "Zip": "79743"
+        },
+        {
+            "Name": "Industry",
+            "Zip": "78944"
+        },
+        {
+            "Name": "Inez",
+            "Zip": "77968"
+        },
+        {
+            "Name": "Ingleside",
+            "Zip": "78362"
+        },
+        {
+            "Name": "Ingram",
+            "Zip": "78025"
+        },
+        {
+            "Name": "Iola",
+            "Zip": "77861"
+        },
+        {
+            "Name": "Iowa Park",
+            "Zip": "76367"
+        },
+        {
+            "Name": "Ira",
+            "Zip": "79527"
+        },
+        {
+            "Name": "Iraan",
+            "Zip": "79744"
+        },
+        {
+            "Name": "Iredell",
+            "Zip": "76649"
+        },
+        {
+            "Name": "Irene",
+            "Zip": "76650"
+        },
+        {
+            "Name": "Irving",
+            "Zip": "75014"
+        },
+        {
+            "Name": "Italy",
+            "Zip": "76651"
+        },
+        {
+            "Name": "Itasca",
+            "Zip": "76055"
+        },
+        {
+            "Name": "Ivanhoe",
+            "Zip": "75447"
+        },
+        {
+            "Name": "Jacksboro",
+            "Zip": "76458"
+        },
+        {
+            "Name": "Jacksonville",
+            "Zip": "75766"
+        },
+        {
+            "Name": "Jarrell",
+            "Zip": "76537"
+        },
+        {
+            "Name": "Jasper",
+            "Zip": "75951"
+        },
+        {
+            "Name": "Jayton",
+            "Zip": "79528"
+        },
+        {
+            "Name": "Jefferson",
+            "Zip": "75657"
+        },
+        {
+            "Name": "Jermyn",
+            "Zip": "76459"
+        },
+        {
+            "Name": "Jewett",
+            "Zip": "75846"
+        },
+        {
+            "Name": "Joaquin",
+            "Zip": "75954"
+        },
+        {
+            "Name": "Johnson City",
+            "Zip": "78636"
+        },
+        {
+            "Name": "Joinerville",
+            "Zip": "75658"
+        },
+        {
+            "Name": "Jonesboro",
+            "Zip": "76538"
+        },
+        {
+            "Name": "Jonesville",
+            "Zip": "75659"
+        },
+        {
+            "Name": "Josephine",
+            "Zip": "75164"
+        },
+        {
+            "Name": "Joshua",
+            "Zip": "76058"
+        },
+        {
+            "Name": "Jourdanton",
+            "Zip": "78026"
+        },
+        {
+            "Name": "Judson",
+            "Zip": "75660"
+        },
+        {
+            "Name": "Junction",
+            "Zip": "76849"
+        },
+        {
+            "Name": "Justiceburg",
+            "Zip": "79330"
+        },
+        {
+            "Name": "Justin",
+            "Zip": "76247"
+        },
+        {
+            "Name": "Kamay",
+            "Zip": "76369"
+        },
+        {
+            "Name": "Karnack",
+            "Zip": "75661"
+        },
+        {
+            "Name": "Karnes City",
+            "Zip": "78118"
+        },
+        {
+            "Name": "Katy",
+            "Zip": "77449"
+        },
+        {
+            "Name": "Kaufman",
+            "Zip": "75142"
+        },
+        {
+            "Name": "Keene",
+            "Zip": "76059"
+        },
+        {
+            "Name": "Keller",
+            "Zip": "76244"
+        },
+        {
+            "Name": "Kemah",
+            "Zip": "77565"
+        },
+        {
+            "Name": "Kemp",
+            "Zip": "75143"
+        },
+        {
+            "Name": "Kempner",
+            "Zip": "76539"
+        },
+        {
+            "Name": "Kendalia",
+            "Zip": "78027"
+        },
+        {
+            "Name": "Kendleton",
+            "Zip": "77451"
+        },
+        {
+            "Name": "Kenedy",
+            "Zip": "78119"
+        },
+        {
+            "Name": "Kennard",
+            "Zip": "75847"
+        },
+        {
+            "Name": "Kennedale",
+            "Zip": "76060"
+        },
+        {
+            "Name": "Kenney",
+            "Zip": "77452"
+        },
+        {
+            "Name": "Kerens",
+            "Zip": "75144"
+        },
+        {
+            "Name": "Kermit",
+            "Zip": "79745"
+        },
+        {
+            "Name": "Kerrick",
+            "Zip": "79051"
+        },
+        {
+            "Name": "Kerrville",
+            "Zip": "78028"
+        },
+        {
+            "Name": "Kildare",
+            "Zip": "75562"
+        },
+        {
+            "Name": "Kilgore",
+            "Zip": "75662"
+        },
+        {
+            "Name": "Killeen",
+            "Zip": "76540"
+        },
+        {
+            "Name": "Kingsbury",
+            "Zip": "78638"
+        },
+        {
+            "Name": "Kingsland",
+            "Zip": "78639"
+        },
+        {
+            "Name": "Kingsville",
+            "Zip": "78363"
+        },
+        {
+            "Name": "Kirbyville",
+            "Zip": "75956"
+        },
+        {
+            "Name": "Kirkland",
+            "Zip": "79238"
+        },
+        {
+            "Name": "Kirvin",
+            "Zip": "75848"
+        },
+        {
+            "Name": "Klondike",
+            "Zip": "75448"
+        },
+        {
+            "Name": "Knickerbocker",
+            "Zip": "76939"
+        },
+        {
+            "Name": "Knippa",
+            "Zip": "78870"
+        },
+        {
+            "Name": "Knott",
+            "Zip": "79748"
+        },
+        {
+            "Name": "Knox City",
+            "Zip": "79529"
+        },
+        {
+            "Name": "Kopperl",
+            "Zip": "76652"
+        },
+        {
+            "Name": "Kosse",
+            "Zip": "76653"
+        },
+        {
+            "Name": "Kountze",
+            "Zip": "77625"
+        },
+        {
+            "Name": "Kress",
+            "Zip": "79052"
+        },
+        {
+            "Name": "Krum",
+            "Zip": "76249"
+        },
+        {
+            "Name": "Kurten",
+            "Zip": "77862"
+        },
+        {
+            "Name": "Kyle",
+            "Zip": "78640"
+        },
+        {
+            "Name": "La Blanca",
+            "Zip": "78558"
+        },
+        {
+            "Name": "La Coste",
+            "Zip": "78039"
+        },
+        {
+            "Name": "La Feria",
+            "Zip": "78559"
+        },
+        {
+            "Name": "La Grange",
+            "Zip": "78945"
+        },
+        {
+            "Name": "La Joya",
+            "Zip": "78560"
+        },
+        {
+            "Name": "La Marque",
+            "Zip": "77568"
+        },
+        {
+            "Name": "La Porte",
+            "Zip": "77571"
+        },
+        {
+            "Name": "La Pryor",
+            "Zip": "78872"
+        },
+        {
+            "Name": "La Salle",
+            "Zip": "77969"
+        },
+        {
+            "Name": "La Vernia",
+            "Zip": "78121"
+        },
+        {
+            "Name": "La Villa",
+            "Zip": "78562"
+        },
+        {
+            "Name": "La Ward",
+            "Zip": "77970"
+        },
+        {
+            "Name": "Ladonia",
+            "Zip": "75449"
+        },
+        {
+            "Name": "Laguna Park",
+            "Zip": "76644"
+        },
+        {
+            "Name": "Laird Hill",
+            "Zip": "75666"
+        },
+        {
+            "Name": "Lake Creek",
+            "Zip": "75450"
+        },
+        {
+            "Name": "Lake Dallas",
+            "Zip": "75065"
+        },
+        {
+            "Name": "Lake Jackson",
+            "Zip": "77566"
+        },
+        {
+            "Name": "Lake Worth",
+            "Zip": "76135"
+        },
+        {
+            "Name": "Lakeview",
+            "Zip": "79239"
+        },
+        {
+            "Name": "Lamesa",
+            "Zip": "79331"
+        },
+        {
+            "Name": "Lampasas",
+            "Zip": "76550"
+        },
+        {
+            "Name": "Lancaster",
+            "Zip": "75134"
+        },
+        {
+            "Name": "Lane City",
+            "Zip": "77453"
+        },
+        {
+            "Name": "Laneville",
+            "Zip": "75667"
+        },
+        {
+            "Name": "Langtry",
+            "Zip": "78871"
+        },
+        {
+            "Name": "Laredo",
+            "Zip": "78040"
+        },
+        {
+            "Name": "Larue",
+            "Zip": "75770"
+        },
+        {
+            "Name": "Lasara",
+            "Zip": "78561"
+        },
+        {
+            "Name": "Latexo",
+            "Zip": "75849"
+        },
+        {
+            "Name": "Laughlin A F B",
+            "Zip": "78843"
+        },
+        {
+            "Name": "Lavon",
+            "Zip": "75166"
+        },
+        {
+            "Name": "Lawn",
+            "Zip": "79530"
+        },
+        {
+            "Name": "Lazbuddie",
+            "Zip": "79053"
+        },
+        {
+            "Name": "League City",
+            "Zip": "77573"
+        },
+        {
+            "Name": "Leakey",
+            "Zip": "78873"
+        },
+        {
+            "Name": "Leander",
+            "Zip": "78641"
+        },
+        {
+            "Name": "Ledbetter",
+            "Zip": "78946"
+        },
+        {
+            "Name": "Leesburg",
+            "Zip": "75451"
+        },
+        {
+            "Name": "Leesville",
+            "Zip": "78122"
+        },
+        {
+            "Name": "Lefors",
+            "Zip": "79054"
+        },
+        {
+            "Name": "Leggett",
+            "Zip": "77350"
+        },
+        {
+            "Name": "Lelia Lake",
+            "Zip": "79240"
+        },
+        {
+            "Name": "Leming",
+            "Zip": "78050"
+        },
+        {
+            "Name": "Lenorah",
+            "Zip": "79749"
+        },
+        {
+            "Name": "Leon Junction",
+            "Zip": "76552"
+        },
+        {
+            "Name": "Leona",
+            "Zip": "75850"
+        },
+        {
+            "Name": "Leonard",
+            "Zip": "75452"
+        },
+        {
+            "Name": "Leroy",
+            "Zip": "76654"
+        },
+        {
+            "Name": "Levelland",
+            "Zip": "79336"
+        },
+        {
+            "Name": "Lewisville",
+            "Zip": "75029"
+        },
+        {
+            "Name": "Lexington",
+            "Zip": "78947"
+        },
+        {
+            "Name": "Liberty",
+            "Zip": "77575"
+        },
+        {
+            "Name": "Liberty Hill",
+            "Zip": "78642"
+        },
+        {
+            "Name": "Lillian",
+            "Zip": "76061"
+        },
+        {
+            "Name": "Lincoln",
+            "Zip": "78948"
+        },
+        {
+            "Name": "Lindale",
+            "Zip": "75771"
+        },
+        {
+            "Name": "Linden",
+            "Zip": "75563"
+        },
+        {
+            "Name": "Lindsay",
+            "Zip": "76250"
+        },
+        {
+            "Name": "Lingleville",
+            "Zip": "76461"
+        },
+        {
+            "Name": "Linn",
+            "Zip": "78563"
+        },
+        {
+            "Name": "Lipan",
+            "Zip": "76462"
+        },
+        {
+            "Name": "Lipscomb",
+            "Zip": "79056"
+        },
+        {
+            "Name": "Lissie",
+            "Zip": "77454"
+        },
+        {
+            "Name": "Little Elm",
+            "Zip": "75068"
+        },
+        {
+            "Name": "Little River",
+            "Zip": "76554"
+        },
+        {
+            "Name": "Littlefield",
+            "Zip": "79339"
+        },
+        {
+            "Name": "Liverpool",
+            "Zip": "77577"
+        },
+        {
+            "Name": "Livingston",
+            "Zip": "77351"
+        },
+        {
+            "Name": "Llano",
+            "Zip": "78643"
+        },
+        {
+            "Name": "Lockhart",
+            "Zip": "78644"
+        },
+        {
+            "Name": "Lockney",
+            "Zip": "79241"
+        },
+        {
+            "Name": "Lodi",
+            "Zip": "75564"
+        },
+        {
+            "Name": "Lohn",
+            "Zip": "76852"
+        },
+        {
+            "Name": "Lolita",
+            "Zip": "77971"
+        },
+        {
+            "Name": "Lometa",
+            "Zip": "76853"
+        },
+        {
+            "Name": "London",
+            "Zip": "76854"
+        },
+        {
+            "Name": "Lone Oak",
+            "Zip": "75453"
+        },
+        {
+            "Name": "Lone Star",
+            "Zip": "75668"
+        },
+        {
+            "Name": "Long Branch",
+            "Zip": "75669"
+        },
+        {
+            "Name": "Long Mott",
+            "Zip": "77972"
+        },
+        {
+            "Name": "Longview",
+            "Zip": "75601"
+        },
+        {
+            "Name": "Loop",
+            "Zip": "79342"
+        },
+        {
+            "Name": "Lopeno",
+            "Zip": "78564"
+        },
+        {
+            "Name": "Loraine",
+            "Zip": "79532"
+        },
+        {
+            "Name": "Lorena",
+            "Zip": "76655"
+        },
+        {
+            "Name": "Lorenzo",
+            "Zip": "79343"
+        },
+        {
+            "Name": "Los Ebanos",
+            "Zip": "78565"
+        },
+        {
+            "Name": "Los Fresnos",
+            "Zip": "78566"
+        },
+        {
+            "Name": "Los Indios",
+            "Zip": "78567"
+        },
+        {
+            "Name": "Lott",
+            "Zip": "76656"
+        },
+        {
+            "Name": "Louise",
+            "Zip": "77455"
+        },
+        {
+            "Name": "Lovelady",
+            "Zip": "75851"
+        },
+        {
+            "Name": "Loving",
+            "Zip": "76460"
+        },
+        {
+            "Name": "Lowake",
+            "Zip": "76855"
+        },
+        {
+            "Name": "Lozano",
+            "Zip": "78568"
+        },
+        {
+            "Name": "Lubbock",
+            "Zip": "79401"
+        },
+        {
+            "Name": "Lueders",
+            "Zip": "79533"
+        },
+        {
+            "Name": "Lufkin",
+            "Zip": "75901"
+        },
+        {
+            "Name": "Luling",
+            "Zip": "78648"
+        },
+        {
+            "Name": "Lumberton",
+            "Zip": "77657"
+        },
+        {
+            "Name": "Lyford",
+            "Zip": "78569"
+        },
+        {
+            "Name": "Lyons",
+            "Zip": "77863"
+        },
+        {
+            "Name": "Lytle",
+            "Zip": "78052"
+        },
+        {
+            "Name": "Mabank",
+            "Zip": "75147"
+        },
+        {
+            "Name": "Macdona",
+            "Zip": "78054"
+        },
+        {
+            "Name": "Madisonville",
+            "Zip": "77864"
+        },
+        {
+            "Name": "Magnolia",
+            "Zip": "77353"
+        },
+        {
+            "Name": "Magnolia Springs",
+            "Zip": "75957"
+        },
+        {
+            "Name": "Malakoff",
+            "Zip": "75148"
+        },
+        {
+            "Name": "Malone",
+            "Zip": "76660"
+        },
+        {
+            "Name": "Manchaca",
+            "Zip": "78652"
+        },
+        {
+            "Name": "Manor",
+            "Zip": "78653"
+        },
+        {
+            "Name": "Mansfield",
+            "Zip": "76063"
+        },
+        {
+            "Name": "Manvel",
+            "Zip": "77578"
+        },
+        {
+            "Name": "Maple",
+            "Zip": "79344"
+        },
+        {
+            "Name": "Marathon",
+            "Zip": "79842"
+        },
+        {
+            "Name": "Marble Falls",
+            "Zip": "78654"
+        },
+        {
+            "Name": "Marfa",
+            "Zip": "79843"
+        },
+        {
+            "Name": "Marietta",
+            "Zip": "75566"
+        },
+        {
+            "Name": "Marion",
+            "Zip": "78124"
+        },
+        {
+            "Name": "Markham",
+            "Zip": "77456"
+        },
+        {
+            "Name": "Marlin",
+            "Zip": "76661"
+        },
+        {
+            "Name": "Marquez",
+            "Zip": "77865"
+        },
+        {
+            "Name": "Marshall",
+            "Zip": "75670"
+        },
+        {
+            "Name": "Mart",
+            "Zip": "76664"
+        },
+        {
+            "Name": "Martindale",
+            "Zip": "78655"
+        },
+        {
+            "Name": "Martinsville",
+            "Zip": "75958"
+        },
+        {
+            "Name": "Maryneal",
+            "Zip": "79535"
+        },
+        {
+            "Name": "Mason",
+            "Zip": "76856"
+        },
+        {
+            "Name": "Masterson",
+            "Zip": "79058"
+        },
+        {
+            "Name": "Matador",
+            "Zip": "79244"
+        },
+        {
+            "Name": "Matagorda",
+            "Zip": "77457"
+        },
+        {
+            "Name": "Mathis",
+            "Zip": "78368"
+        },
+        {
+            "Name": "Maud",
+            "Zip": "75567"
+        },
+        {
+            "Name": "Mauriceville",
+            "Zip": "77626"
+        },
+        {
+            "Name": "Maxwell",
+            "Zip": "78656"
+        },
+        {
+            "Name": "May",
+            "Zip": "76857"
+        },
+        {
+            "Name": "Maydelle",
+            "Zip": "75772"
+        },
+        {
+            "Name": "Maypearl",
+            "Zip": "76064"
+        },
+        {
+            "Name": "Maysfield",
+            "Zip": "76555"
+        },
+        {
+            "Name": "Mc Camey",
+            "Zip": "79752"
+        },
+        {
+            "Name": "Mc Caulley",
+            "Zip": "79534"
+        },
+        {
+            "Name": "Mc Coy",
+            "Zip": "78053"
+        },
+        {
+            "Name": "Mc Dade",
+            "Zip": "78650"
+        },
+        {
+            "Name": "Mc Gregor",
+            "Zip": "76657"
+        },
+        {
+            "Name": "Mc Kinney",
+            "Zip": "75069"
+        },
+        {
+            "Name": "Mc Leod",
+            "Zip": "75565"
+        },
+        {
+            "Name": "Mc Neil",
+            "Zip": "78651"
+        },
+        {
+            "Name": "Mc Queeney",
+            "Zip": "78123"
+        },
+        {
+            "Name": "Mcadoo",
+            "Zip": "79243"
+        },
+        {
+            "Name": "Mcallen",
+            "Zip": "78501"
+        },
+        {
+            "Name": "Mcfaddin",
+            "Zip": "77973"
+        },
+        {
+            "Name": "Mckinney",
+            "Zip": "75072"
+        },
+        {
+            "Name": "Mclean",
+            "Zip": "79057"
+        },
+        {
+            "Name": "Meadow",
+            "Zip": "79345"
+        },
+        {
+            "Name": "Medina",
+            "Zip": "78055"
+        },
+        {
+            "Name": "Megargel",
+            "Zip": "76370"
+        },
+        {
+            "Name": "Melissa",
+            "Zip": "75454"
+        },
+        {
+            "Name": "Melvin",
+            "Zip": "76858"
+        },
+        {
+            "Name": "Memphis",
+            "Zip": "79245"
+        },
+        {
+            "Name": "Menard",
+            "Zip": "76859"
+        },
+        {
+            "Name": "Mentone",
+            "Zip": "79754"
+        },
+        {
+            "Name": "Mercedes",
+            "Zip": "78570"
+        },
+        {
+            "Name": "Mereta",
+            "Zip": "76940"
+        },
+        {
+            "Name": "Meridian",
+            "Zip": "76665"
+        },
+        {
+            "Name": "Merit",
+            "Zip": "75458"
+        },
+        {
+            "Name": "Merkel",
+            "Zip": "79536"
+        },
+        {
+            "Name": "Mertens",
+            "Zip": "76666"
+        },
+        {
+            "Name": "Mertzon",
+            "Zip": "76941"
+        },
+        {
+            "Name": "Mesquite",
+            "Zip": "75149"
+        },
+        {
+            "Name": "Mexia",
+            "Zip": "76667"
+        },
+        {
+            "Name": "Meyersville",
+            "Zip": "77974"
+        },
+        {
+            "Name": "Miami",
+            "Zip": "79059"
+        },
+        {
+            "Name": "Mico",
+            "Zip": "78056"
+        },
+        {
+            "Name": "Midfield",
+            "Zip": "77458"
+        },
+        {
+            "Name": "Midkiff",
+            "Zip": "79755"
+        },
+        {
+            "Name": "Midland",
+            "Zip": "79701"
+        },
+        {
+            "Name": "Midlothian",
+            "Zip": "76065"
+        },
+        {
+            "Name": "Midway",
+            "Zip": "75852"
+        },
+        {
+            "Name": "Milam",
+            "Zip": "75959"
+        },
+        {
+            "Name": "Milano",
+            "Zip": "76556"
+        },
+        {
+            "Name": "Miles",
+            "Zip": "76861"
+        },
+        {
+            "Name": "Milford",
+            "Zip": "76670"
+        },
+        {
+            "Name": "Millersview",
+            "Zip": "76862"
+        },
+        {
+            "Name": "Millican",
+            "Zip": "77866"
+        },
+        {
+            "Name": "Millsap",
+            "Zip": "76066"
+        },
+        {
+            "Name": "Minden",
+            "Zip": "75680"
+        },
+        {
+            "Name": "Mineola",
+            "Zip": "75773"
+        },
+        {
+            "Name": "Mineral",
+            "Zip": "78125"
+        },
+        {
+            "Name": "Mineral Wells",
+            "Zip": "76067"
+        },
+        {
+            "Name": "Mingus",
+            "Zip": "76463"
+        },
+        {
+            "Name": "Mirando City",
+            "Zip": "78369"
+        },
+        {
+            "Name": "Mission",
+            "Zip": "78572"
+        },
+        {
+            "Name": "Missouri City",
+            "Zip": "77459"
+        },
+        {
+            "Name": "Mobeetie",
+            "Zip": "79061"
+        },
+        {
+            "Name": "Monahans",
+            "Zip": "79756"
+        },
+        {
+            "Name": "Mont Belvieu",
+            "Zip": "77580"
+        },
+        {
+            "Name": "Montague",
+            "Zip": "76251"
+        },
+        {
+            "Name": "Montalba",
+            "Zip": "75853"
+        },
+        {
+            "Name": "Montgomery",
+            "Zip": "77316"
+        },
+        {
+            "Name": "Moody",
+            "Zip": "76557"
+        },
+        {
+            "Name": "Moore",
+            "Zip": "78057"
+        },
+        {
+            "Name": "Moran",
+            "Zip": "76464"
+        },
+        {
+            "Name": "Morgan",
+            "Zip": "76671"
+        },
+        {
+            "Name": "Morgan Mill",
+            "Zip": "76465"
+        },
+        {
+            "Name": "Morse",
+            "Zip": "79062"
+        },
+        {
+            "Name": "Morton",
+            "Zip": "79346"
+        },
+        {
+            "Name": "Moscow",
+            "Zip": "75960"
+        },
+        {
+            "Name": "Moulton",
+            "Zip": "77975"
+        },
+        {
+            "Name": "Mound",
+            "Zip": "76558"
+        },
+        {
+            "Name": "Mount Calm",
+            "Zip": "76673"
+        },
+        {
+            "Name": "Mount Enterprise",
+            "Zip": "75681"
+        },
+        {
+            "Name": "Mount Pleasant",
+            "Zip": "75455"
+        },
+        {
+            "Name": "Mount Vernon",
+            "Zip": "75457"
+        },
+        {
+            "Name": "Mountain Home",
+            "Zip": "78058"
+        },
+        {
+            "Name": "Muenster",
+            "Zip": "76252"
+        },
+        {
+            "Name": "Muldoon",
+            "Zip": "78949"
+        },
+        {
+            "Name": "Muleshoe",
+            "Zip": "79347"
+        },
+        {
+            "Name": "Mullin",
+            "Zip": "76864"
+        },
+        {
+            "Name": "Mumford",
+            "Zip": "77867"
+        },
+        {
+            "Name": "Munday",
+            "Zip": "76371"
+        },
+        {
+            "Name": "Murchison",
+            "Zip": "75778"
+        },
+        {
+            "Name": "Myra",
+            "Zip": "76253"
+        },
+        {
+            "Name": "Nacogdoches",
+            "Zip": "75961"
+        },
+        {
+            "Name": "Nada",
+            "Zip": "77460"
+        },
+        {
+            "Name": "Naples",
+            "Zip": "75568"
+        },
+        {
+            "Name": "Nash",
+            "Zip": "75569"
+        },
+        {
+            "Name": "Natalia",
+            "Zip": "78059"
+        },
+        {
+            "Name": "Naval Air Station Jrb",
+            "Zip": "76127"
+        },
+        {
+            "Name": "Navasota",
+            "Zip": "77868"
+        },
+        {
+            "Name": "Nazareth",
+            "Zip": "79063"
+        },
+        {
+            "Name": "Neches",
+            "Zip": "75779"
+        },
+        {
+            "Name": "Nederland",
+            "Zip": "77627"
+        },
+        {
+            "Name": "Needville",
+            "Zip": "77461"
+        },
+        {
+            "Name": "Nemo",
+            "Zip": "76070"
+        },
+        {
+            "Name": "Nevada",
+            "Zip": "75173"
+        },
+        {
+            "Name": "New Baden",
+            "Zip": "77870"
+        },
+        {
+            "Name": "New Boston",
+            "Zip": "75570"
+        },
+        {
+            "Name": "New Braunfels",
+            "Zip": "78130"
+        },
+        {
+            "Name": "New Caney",
+            "Zip": "77357"
+        },
+        {
+            "Name": "New Deal",
+            "Zip": "79350"
+        },
+        {
+            "Name": "New Home",
+            "Zip": "79383"
+        },
+        {
+            "Name": "New London",
+            "Zip": "75682"
+        },
+        {
+            "Name": "New Summerfield",
+            "Zip": "75780"
+        },
+        {
+            "Name": "New Ulm",
+            "Zip": "78950"
+        },
+        {
+            "Name": "New Waverly",
+            "Zip": "77358"
+        },
+        {
+            "Name": "Newark",
+            "Zip": "76071"
+        },
+        {
+            "Name": "Newcastle",
+            "Zip": "76372"
+        },
+        {
+            "Name": "Newgulf",
+            "Zip": "77462"
+        },
+        {
+            "Name": "Newton",
+            "Zip": "75966"
+        },
+        {
+            "Name": "Nixon",
+            "Zip": "78140"
+        },
+        {
+            "Name": "Nocona",
+            "Zip": "76255"
+        },
+        {
+            "Name": "Nolan",
+            "Zip": "79537"
+        },
+        {
+            "Name": "Nolanville",
+            "Zip": "76559"
+        },
+        {
+            "Name": "Nome",
+            "Zip": "77629"
+        },
+        {
+            "Name": "Nordheim",
+            "Zip": "78141"
+        },
+        {
+            "Name": "Normangee",
+            "Zip": "77871"
+        },
+        {
+            "Name": "Normanna",
+            "Zip": "78142"
+        },
+        {
+            "Name": "North Houston",
+            "Zip": "77315"
+        },
+        {
+            "Name": "North Richland Hills",
+            "Zip": "76180"
+        },
+        {
+            "Name": "North Zulch",
+            "Zip": "77872"
+        },
+        {
+            "Name": "Norton",
+            "Zip": "76865"
+        },
+        {
+            "Name": "Notrees",
+            "Zip": "79759"
+        },
+        {
+            "Name": "Novice",
+            "Zip": "79538"
+        },
+        {
+            "Name": "Nursery",
+            "Zip": "77976"
+        },
+        {
+            "Name": "O Brien",
+            "Zip": "79539"
+        },
+        {
+            "Name": "Oakhurst",
+            "Zip": "77359"
+        },
+        {
+            "Name": "Oakland",
+            "Zip": "78951"
+        },
+        {
+            "Name": "Oakville",
+            "Zip": "78060"
+        },
+        {
+            "Name": "Oakwood",
+            "Zip": "75855"
+        },
+        {
+            "Name": "Odell",
+            "Zip": "79247"
+        },
+        {
+            "Name": "Odem",
+            "Zip": "78370"
+        },
+        {
+            "Name": "Odessa",
+            "Zip": "79760"
+        },
+        {
+            "Name": "Odonnell",
+            "Zip": "79351"
+        },
+        {
+            "Name": "Oglesby",
+            "Zip": "76561"
+        },
+        {
+            "Name": "Oilton",
+            "Zip": "78371"
+        },
+        {
+            "Name": "Oklaunion",
+            "Zip": "76373"
+        },
+        {
+            "Name": "Old Glory",
+            "Zip": "79540"
+        },
+        {
+            "Name": "Old Ocean",
+            "Zip": "77463"
+        },
+        {
+            "Name": "Olden",
+            "Zip": "76466"
+        },
+        {
+            "Name": "Olmito",
+            "Zip": "78575"
+        },
+        {
+            "Name": "Olney",
+            "Zip": "76374"
+        },
+        {
+            "Name": "Olton",
+            "Zip": "79064"
+        },
+        {
+            "Name": "Omaha",
+            "Zip": "75571"
+        },
+        {
+            "Name": "Onalaska",
+            "Zip": "77360"
+        },
+        {
+            "Name": "Orange",
+            "Zip": "77630"
+        },
+        {
+            "Name": "Orange Grove",
+            "Zip": "78372"
+        },
+        {
+            "Name": "Orangefield",
+            "Zip": "77639"
+        },
+        {
+            "Name": "Orchard",
+            "Zip": "77464"
+        },
+        {
+            "Name": "Ore City",
+            "Zip": "75683"
+        },
+        {
+            "Name": "Orla",
+            "Zip": "79770"
+        },
+        {
+            "Name": "Ottine",
+            "Zip": "78658"
+        },
+        {
+            "Name": "Otto",
+            "Zip": "76675"
+        },
+        {
+            "Name": "Ovalo",
+            "Zip": "79541"
+        },
+        {
+            "Name": "Overton",
+            "Zip": "75684"
+        },
+        {
+            "Name": "Ozona",
+            "Zip": "76943"
+        },
+        {
+            "Name": "Paducah",
+            "Zip": "79248"
+        },
+        {
+            "Name": "Paige",
+            "Zip": "78659"
+        },
+        {
+            "Name": "Paint Rock",
+            "Zip": "76866"
+        },
+        {
+            "Name": "Palacios",
+            "Zip": "77465"
+        },
+        {
+            "Name": "Palestine",
+            "Zip": "75801"
+        },
+        {
+            "Name": "Palmer",
+            "Zip": "75152"
+        },
+        {
+            "Name": "Palo Pinto",
+            "Zip": "76484"
+        },
+        {
+            "Name": "Paluxy",
+            "Zip": "76467"
+        },
+        {
+            "Name": "Pampa",
+            "Zip": "79065"
+        },
+        {
+            "Name": "Pandora",
+            "Zip": "78143"
+        },
+        {
+            "Name": "Panhandle",
+            "Zip": "79068"
+        },
+        {
+            "Name": "Panna Maria",
+            "Zip": "78144"
+        },
+        {
+            "Name": "Panola",
+            "Zip": "75685"
+        },
+        {
+            "Name": "Paradise",
+            "Zip": "76073"
+        },
+        {
+            "Name": "Paris",
+            "Zip": "75460"
+        },
+        {
+            "Name": "Pasadena",
+            "Zip": "77501"
+        },
+        {
+            "Name": "Pattison",
+            "Zip": "77466"
+        },
+        {
+            "Name": "Pattonville",
+            "Zip": "75468"
+        },
+        {
+            "Name": "Pawnee",
+            "Zip": "78145"
+        },
+        {
+            "Name": "Peacock",
+            "Zip": "79542"
+        },
+        {
+            "Name": "Pear Valley",
+            "Zip": "76867"
+        },
+        {
+            "Name": "Pearland",
+            "Zip": "77581"
+        },
+        {
+            "Name": "Pearsall",
+            "Zip": "78061"
+        },
+        {
+            "Name": "Peaster",
+            "Zip": "76485"
+        },
+        {
+            "Name": "Pecan Gap",
+            "Zip": "75469"
+        },
+        {
+            "Name": "Pecos",
+            "Zip": "79772"
+        },
+        {
+            "Name": "Peggy",
+            "Zip": "78062"
+        },
+        {
+            "Name": "Pendleton",
+            "Zip": "76564"
+        },
+        {
+            "Name": "Penelope",
+            "Zip": "76676"
+        },
+        {
+            "Name": "Penitas",
+            "Zip": "78576"
+        },
+        {
+            "Name": "Pennington",
+            "Zip": "75856"
+        },
+        {
+            "Name": "Penwell",
+            "Zip": "79776"
+        },
+        {
+            "Name": "Pep",
+            "Zip": "79353"
+        },
+        {
+            "Name": "Perrin",
+            "Zip": "76486"
+        },
+        {
+            "Name": "Perry",
+            "Zip": "76677"
+        },
+        {
+            "Name": "Perryton",
+            "Zip": "79070"
+        },
+        {
+            "Name": "Petersburg",
+            "Zip": "79250"
+        },
+        {
+            "Name": "Petrolia",
+            "Zip": "76377"
+        },
+        {
+            "Name": "Pettus",
+            "Zip": "78146"
+        },
+        {
+            "Name": "Petty",
+            "Zip": "75470"
+        },
+        {
+            "Name": "Pflugerville",
+            "Zip": "78660"
+        },
+        {
+            "Name": "Pharr",
+            "Zip": "78577"
+        },
+        {
+            "Name": "Pickton",
+            "Zip": "75471"
+        },
+        {
+            "Name": "Pierce",
+            "Zip": "77467"
+        },
+        {
+            "Name": "Pilot Point",
+            "Zip": "76258"
+        },
+        {
+            "Name": "Pinehurst",
+            "Zip": "77362"
+        },
+        {
+            "Name": "Pineland",
+            "Zip": "75968"
+        },
+        {
+            "Name": "Pipe Creek",
+            "Zip": "78063"
+        },
+        {
+            "Name": "Pittsburg",
+            "Zip": "75686"
+        },
+        {
+            "Name": "Placedo",
+            "Zip": "77977"
+        },
+        {
+            "Name": "Plains",
+            "Zip": "79355"
+        },
+        {
+            "Name": "Plainview",
+            "Zip": "79072"
+        },
+        {
+            "Name": "Plano",
+            "Zip": "75023"
+        },
+        {
+            "Name": "Plantersville",
+            "Zip": "77363"
+        },
+        {
+            "Name": "Pleasanton",
+            "Zip": "78064"
+        },
+        {
+            "Name": "Pledger",
+            "Zip": "77468"
+        },
+        {
+            "Name": "Plum",
+            "Zip": "78952"
+        },
+        {
+            "Name": "Point",
+            "Zip": "75472"
+        },
+        {
+            "Name": "Point Comfort",
+            "Zip": "77978"
+        },
+        {
+            "Name": "Pointblank",
+            "Zip": "77364"
+        },
+        {
+            "Name": "Pollok",
+            "Zip": "75969"
+        },
+        {
+            "Name": "Ponder",
+            "Zip": "76259"
+        },
+        {
+            "Name": "Pontotoc",
+            "Zip": "76869"
+        },
+        {
+            "Name": "Poolville",
+            "Zip": "76487"
+        },
+        {
+            "Name": "Port Aransas",
+            "Zip": "78373"
+        },
+        {
+            "Name": "Port Arthur",
+            "Zip": "77640"
+        },
+        {
+            "Name": "Port Bolivar",
+            "Zip": "77650"
+        },
+        {
+            "Name": "Port Isabel",
+            "Zip": "78578"
+        },
+        {
+            "Name": "Port Lavaca",
+            "Zip": "77979"
+        },
+        {
+            "Name": "Port Mansfield",
+            "Zip": "78598"
+        },
+        {
+            "Name": "Port Neches",
+            "Zip": "77651"
+        },
+        {
+            "Name": "Port O Connor",
+            "Zip": "77982"
+        },
+        {
+            "Name": "Porter",
+            "Zip": "77365"
+        },
+        {
+            "Name": "Portland",
+            "Zip": "78374"
+        },
+        {
+            "Name": "Post",
+            "Zip": "79356"
+        },
+        {
+            "Name": "Poteet",
+            "Zip": "78065"
+        },
+        {
+            "Name": "Poth",
+            "Zip": "78147"
+        },
+        {
+            "Name": "Pottsboro",
+            "Zip": "75076"
+        },
+        {
+            "Name": "Pottsville",
+            "Zip": "76565"
+        },
+        {
+            "Name": "Powderly",
+            "Zip": "75473"
+        },
+        {
+            "Name": "Powell",
+            "Zip": "75153"
+        },
+        {
+            "Name": "Poynor",
+            "Zip": "75782"
+        },
+        {
+            "Name": "Prairie Hill",
+            "Zip": "76678"
+        },
+        {
+            "Name": "Prairie Lea",
+            "Zip": "78661"
+        },
+        {
+            "Name": "Prairie View",
+            "Zip": "77446"
+        },
+        {
+            "Name": "Premont",
+            "Zip": "78375"
+        },
+        {
+            "Name": "Presidio",
+            "Zip": "79845"
+        },
+        {
+            "Name": "Price",
+            "Zip": "75687"
+        },
+        {
+            "Name": "Priddy",
+            "Zip": "76870"
+        },
+        {
+            "Name": "Princeton",
+            "Zip": "75407"
+        },
+        {
+            "Name": "Proctor",
+            "Zip": "76468"
+        },
+        {
+            "Name": "Progreso",
+            "Zip": "78579"
+        },
+        {
+            "Name": "Prosper",
+            "Zip": "75078"
+        },
+        {
+            "Name": "Purdon",
+            "Zip": "76679"
+        },
+        {
+            "Name": "Purmela",
+            "Zip": "76566"
+        },
+        {
+            "Name": "Putnam",
+            "Zip": "76469"
+        },
+        {
+            "Name": "Pyote",
+            "Zip": "79777"
+        },
+        {
+            "Name": "Quail",
+            "Zip": "79251"
+        },
+        {
+            "Name": "Quanah",
+            "Zip": "79252"
+        },
+        {
+            "Name": "Queen City",
+            "Zip": "75572"
+        },
+        {
+            "Name": "Quemado",
+            "Zip": "78877"
+        },
+        {
+            "Name": "Quinlan",
+            "Zip": "75474"
+        },
+        {
+            "Name": "Quitaque",
+            "Zip": "79255"
+        },
+        {
+            "Name": "Quitman",
+            "Zip": "75783"
+        },
+        {
+            "Name": "Rainbow",
+            "Zip": "76077"
+        },
+        {
+            "Name": "Ralls",
+            "Zip": "79357"
+        },
+        {
+            "Name": "Randolph",
+            "Zip": "75475"
+        },
+        {
+            "Name": "Ranger",
+            "Zip": "76470"
+        },
+        {
+            "Name": "Rankin",
+            "Zip": "79778"
+        },
+        {
+            "Name": "Ransom Canyon",
+            "Zip": "79366"
+        },
+        {
+            "Name": "Ratcliff",
+            "Zip": "75858"
+        },
+        {
+            "Name": "Ravenna",
+            "Zip": "75476"
+        },
+        {
+            "Name": "Raymondville",
+            "Zip": "78580"
+        },
+        {
+            "Name": "Raywood",
+            "Zip": "77582"
+        },
+        {
+            "Name": "Reagan",
+            "Zip": "76680"
+        },
+        {
+            "Name": "Realitos",
+            "Zip": "78376"
+        },
+        {
+            "Name": "Red Oak",
+            "Zip": "75154"
+        },
+        {
+            "Name": "Red Rock",
+            "Zip": "78662"
+        },
+        {
+            "Name": "Redford",
+            "Zip": "79846"
+        },
+        {
+            "Name": "Redwater",
+            "Zip": "75573"
+        },
+        {
+            "Name": "Reese Air Force Base",
+            "Zip": "79489"
+        },
+        {
+            "Name": "Refugio",
+            "Zip": "78377"
+        },
+        {
+            "Name": "Reklaw",
+            "Zip": "75784"
+        },
+        {
+            "Name": "Rhome",
+            "Zip": "76078"
+        },
+        {
+            "Name": "Rice",
+            "Zip": "75155"
+        },
+        {
+            "Name": "Richards",
+            "Zip": "77873"
+        },
+        {
+            "Name": "Richardson",
+            "Zip": "75080"
+        },
+        {
+            "Name": "Richland",
+            "Zip": "76681"
+        },
+        {
+            "Name": "Richland Springs",
+            "Zip": "76871"
+        },
+        {
+            "Name": "Richmond",
+            "Zip": "77406"
+        },
+        {
+            "Name": "Riesel",
+            "Zip": "76682"
+        },
+        {
+            "Name": "Ringgold",
+            "Zip": "76261"
+        },
+        {
+            "Name": "Rio Frio",
+            "Zip": "78879"
+        },
+        {
+            "Name": "Rio Grande City",
+            "Zip": "78582"
+        },
+        {
+            "Name": "Rio Hondo",
+            "Zip": "78583"
+        },
+        {
+            "Name": "Rio Medina",
+            "Zip": "78066"
+        },
+        {
+            "Name": "Rio Vista",
+            "Zip": "76093"
+        },
+        {
+            "Name": "Rising Star",
+            "Zip": "76471"
+        },
+        {
+            "Name": "Riverside",
+            "Zip": "77367"
+        },
+        {
+            "Name": "Riviera",
+            "Zip": "78379"
+        },
+        {
+            "Name": "Roanoke",
+            "Zip": "76262"
+        },
+        {
+            "Name": "Roans Prairie",
+            "Zip": "77875"
+        },
+        {
+            "Name": "Roaring Springs",
+            "Zip": "79256"
+        },
+        {
+            "Name": "Robert Lee",
+            "Zip": "76945"
+        },
+        {
+            "Name": "Robstown",
+            "Zip": "78380"
+        },
+        {
+            "Name": "Roby",
+            "Zip": "79543"
+        },
+        {
+            "Name": "Rochelle",
+            "Zip": "76872"
+        },
+        {
+            "Name": "Rochester",
+            "Zip": "79544"
+        },
+        {
+            "Name": "Rock Island",
+            "Zip": "77470"
+        },
+        {
+            "Name": "Rockdale",
+            "Zip": "76567"
+        },
+        {
+            "Name": "Rockport",
+            "Zip": "78381"
+        },
+        {
+            "Name": "Rocksprings",
+            "Zip": "78880"
+        },
+        {
+            "Name": "Rockwall",
+            "Zip": "75032"
+        },
+        {
+            "Name": "Rockwood",
+            "Zip": "76873"
+        },
+        {
+            "Name": "Rogers",
+            "Zip": "76569"
+        },
+        {
+            "Name": "Roma",
+            "Zip": "78584"
+        },
+        {
+            "Name": "Romayor",
+            "Zip": "77368"
+        },
+        {
+            "Name": "Roosevelt",
+            "Zip": "76874"
+        },
+        {
+            "Name": "Ropesville",
+            "Zip": "79358"
+        },
+        {
+            "Name": "Rosanky",
+            "Zip": "78953"
+        },
+        {
+            "Name": "Roscoe",
+            "Zip": "79545"
+        },
+        {
+            "Name": "Rosebud",
+            "Zip": "76570"
+        },
+        {
+            "Name": "Rosenberg",
+            "Zip": "77471"
+        },
+        {
+            "Name": "Rosharon",
+            "Zip": "77583"
+        },
+        {
+            "Name": "Ross",
+            "Zip": "76684"
+        },
+        {
+            "Name": "Rosser",
+            "Zip": "75157"
+        },
+        {
+            "Name": "Rosston",
+            "Zip": "76263"
+        },
+        {
+            "Name": "Rotan",
+            "Zip": "79546"
+        },
+        {
+            "Name": "Round Mountain",
+            "Zip": "78663"
+        },
+        {
+            "Name": "Round Rock",
+            "Zip": "78664"
+        },
+        {
+            "Name": "Round Top",
+            "Zip": "78954"
+        },
+        {
+            "Name": "Rowena",
+            "Zip": "76875"
+        },
+        {
+            "Name": "Rowlett",
+            "Zip": "75030"
+        },
+        {
+            "Name": "Roxton",
+            "Zip": "75477"
+        },
+        {
+            "Name": "Royalty",
+            "Zip": "79779"
+        },
+        {
+            "Name": "Royse City",
+            "Zip": "75189"
+        },
+        {
+            "Name": "Rule",
+            "Zip": "79547"
+        },
+        {
+            "Name": "Runge",
+            "Zip": "78151"
+        },
+        {
+            "Name": "Rusk",
+            "Zip": "75785"
+        },
+        {
+            "Name": "Rye",
+            "Zip": "77369"
+        },
+        {
+            "Name": "Sabinal",
+            "Zip": "78881"
+        },
+        {
+            "Name": "Sabine Pass",
+            "Zip": "77655"
+        },
+        {
+            "Name": "Sachse",
+            "Zip": "75048"
+        },
+        {
+            "Name": "Sacul",
+            "Zip": "75788"
+        },
+        {
+            "Name": "Sadler",
+            "Zip": "76264"
+        },
+        {
+            "Name": "Saint Hedwig",
+            "Zip": "78152"
+        },
+        {
+            "Name": "Saint Jo",
+            "Zip": "76265"
+        },
+        {
+            "Name": "Salado",
+            "Zip": "76571"
+        },
+        {
+            "Name": "Salineno",
+            "Zip": "78585"
+        },
+        {
+            "Name": "Salt Flat",
+            "Zip": "79847"
+        },
+        {
+            "Name": "Saltillo",
+            "Zip": "75478"
+        },
+        {
+            "Name": "Samnorwood",
+            "Zip": "79077"
+        },
+        {
+            "Name": "San Angelo",
+            "Zip": "76901"
+        },
+        {
+            "Name": "San Antonio",
+            "Zip": "78201"
+        },
+        {
+            "Name": "San Augustine",
+            "Zip": "75972"
+        },
+        {
+            "Name": "San Benito",
+            "Zip": "78586"
+        },
+        {
+            "Name": "San Diego",
+            "Zip": "78384"
+        },
+        {
+            "Name": "San Elizario",
+            "Zip": "79849"
+        },
+        {
+            "Name": "San Felipe",
+            "Zip": "77473"
+        },
+        {
+            "Name": "San Isidro",
+            "Zip": "78588"
+        },
+        {
+            "Name": "San Juan",
+            "Zip": "78589"
+        },
+        {
+            "Name": "San Marcos",
+            "Zip": "78666"
+        },
+        {
+            "Name": "San Perlita",
+            "Zip": "78590"
+        },
+        {
+            "Name": "San Saba",
+            "Zip": "76877"
+        },
+        {
+            "Name": "San Ygnacio",
+            "Zip": "78067"
+        },
+        {
+            "Name": "Sanderson",
+            "Zip": "79848"
+        },
+        {
+            "Name": "Sandia",
+            "Zip": "78383"
+        },
+        {
+            "Name": "Sandy",
+            "Zip": "78665"
+        },
+        {
+            "Name": "Sanford",
+            "Zip": "79078"
+        },
+        {
+            "Name": "Sanger",
+            "Zip": "76266"
+        },
+        {
+            "Name": "Santa Anna",
+            "Zip": "76878"
+        },
+        {
+            "Name": "Santa Elena",
+            "Zip": "78591"
+        },
+        {
+            "Name": "Santa Fe",
+            "Zip": "77510"
+        },
+        {
+            "Name": "Santa Maria",
+            "Zip": "78592"
+        },
+        {
+            "Name": "Santa Rosa",
+            "Zip": "78593"
+        },
+        {
+            "Name": "Santo",
+            "Zip": "76472"
+        },
+        {
+            "Name": "Saragosa",
+            "Zip": "79780"
+        },
+        {
+            "Name": "Saratoga",
+            "Zip": "77585"
+        },
+        {
+            "Name": "Sarita",
+            "Zip": "78385"
+        },
+        {
+            "Name": "Satin",
+            "Zip": "76685"
+        },
+        {
+            "Name": "Savoy",
+            "Zip": "75479"
+        },
+        {
+            "Name": "Schertz",
+            "Zip": "78154"
+        },
+        {
+            "Name": "Schulenburg",
+            "Zip": "78956"
+        },
+        {
+            "Name": "Schwertner",
+            "Zip": "76573"
+        },
+        {
+            "Name": "Scotland",
+            "Zip": "76379"
+        },
+        {
+            "Name": "Scottsville",
+            "Zip": "75688"
+        },
+        {
+            "Name": "Scroggins",
+            "Zip": "75480"
+        },
+        {
+            "Name": "Scurry",
+            "Zip": "75158"
+        },
+        {
+            "Name": "Seabrook",
+            "Zip": "77586"
+        },
+        {
+            "Name": "Seadrift",
+            "Zip": "77983"
+        },
+        {
+            "Name": "Seagoville",
+            "Zip": "75159"
+        },
+        {
+            "Name": "Seagraves",
+            "Zip": "79359"
+        },
+        {
+            "Name": "Sealy",
+            "Zip": "77474"
+        },
+        {
+            "Name": "Sebastian",
+            "Zip": "78594"
+        },
+        {
+            "Name": "Seguin",
+            "Zip": "78155"
+        },
+        {
+            "Name": "Selman City",
+            "Zip": "75689"
+        },
+        {
+            "Name": "Seminole",
+            "Zip": "79360"
+        },
+        {
+            "Name": "Seymour",
+            "Zip": "76380"
+        },
+        {
+            "Name": "Shafter",
+            "Zip": "79850"
+        },
+        {
+            "Name": "Shallowater",
+            "Zip": "79363"
+        },
+        {
+            "Name": "Shamrock",
+            "Zip": "79079"
+        },
+        {
+            "Name": "Sheffield",
+            "Zip": "79781"
+        },
+        {
+            "Name": "Shelbyville",
+            "Zip": "75973"
+        },
+        {
+            "Name": "Shepherd",
+            "Zip": "77371"
+        },
+        {
+            "Name": "Sheppard Afb",
+            "Zip": "76311"
+        },
+        {
+            "Name": "Sheridan",
+            "Zip": "77475"
+        },
+        {
+            "Name": "Sherman",
+            "Zip": "75090"
+        },
+        {
+            "Name": "Shiner",
+            "Zip": "77984"
+        },
+        {
+            "Name": "Shiro",
+            "Zip": "77876"
+        },
+        {
+            "Name": "Sidney",
+            "Zip": "76474"
+        },
+        {
+            "Name": "Sierra Blanca",
+            "Zip": "79851"
+        },
+        {
+            "Name": "Silsbee",
+            "Zip": "77656"
+        },
+        {
+            "Name": "Silver",
+            "Zip": "76949"
+        },
+        {
+            "Name": "Silverton",
+            "Zip": "79257"
+        },
+        {
+            "Name": "Simms",
+            "Zip": "75574"
+        },
+        {
+            "Name": "Simonton",
+            "Zip": "77476"
+        },
+        {
+            "Name": "Sinton",
+            "Zip": "78387"
+        },
+        {
+            "Name": "Skellytown",
+            "Zip": "79080"
+        },
+        {
+            "Name": "Skidmore",
+            "Zip": "78389"
+        },
+        {
+            "Name": "Slaton",
+            "Zip": "79364"
+        },
+        {
+            "Name": "Slidell",
+            "Zip": "76267"
+        },
+        {
+            "Name": "Smiley",
+            "Zip": "78159"
+        },
+        {
+            "Name": "Smithville",
+            "Zip": "78957"
+        },
+        {
+            "Name": "Smyer",
+            "Zip": "79367"
+        },
+        {
+            "Name": "Snook",
+            "Zip": "77878"
+        },
+        {
+            "Name": "Snyder",
+            "Zip": "79549"
+        },
+        {
+            "Name": "Somerset",
+            "Zip": "78069"
+        },
+        {
+            "Name": "Somerville",
+            "Zip": "77879"
+        },
+        {
+            "Name": "Sonora",
+            "Zip": "76950"
+        },
+        {
+            "Name": "Sour Lake",
+            "Zip": "77659"
+        },
+        {
+            "Name": "South Bend",
+            "Zip": "76481"
+        },
+        {
+            "Name": "South Houston",
+            "Zip": "77587"
+        },
+        {
+            "Name": "South Padre Island",
+            "Zip": "78597"
+        },
+        {
+            "Name": "South Plains",
+            "Zip": "79258"
+        },
+        {
+            "Name": "Southlake",
+            "Zip": "76092"
+        },
+        {
+            "Name": "Southmayd",
+            "Zip": "76268"
+        },
+        {
+            "Name": "Spade",
+            "Zip": "79369"
+        },
+        {
+            "Name": "Speaks",
+            "Zip": "77985"
+        },
+        {
+            "Name": "Spearman",
+            "Zip": "79081"
+        },
+        {
+            "Name": "Spicewood",
+            "Zip": "78669"
+        },
+        {
+            "Name": "Splendora",
+            "Zip": "77372"
+        },
+        {
+            "Name": "Spring",
+            "Zip": "77373"
+        },
+        {
+            "Name": "Spring Branch",
+            "Zip": "78070"
+        },
+        {
+            "Name": "Springlake",
+            "Zip": "79082"
+        },
+        {
+            "Name": "Springtown",
+            "Zip": "76082"
+        },
+        {
+            "Name": "Spur",
+            "Zip": "79370"
+        },
+        {
+            "Name": "Spurger",
+            "Zip": "77660"
+        },
+        {
+            "Name": "Stafford",
+            "Zip": "77477"
+        },
+        {
+            "Name": "Stamford",
+            "Zip": "79553"
+        },
+        {
+            "Name": "Stanton",
+            "Zip": "79782"
+        },
+        {
+            "Name": "Staples",
+            "Zip": "78670"
+        },
+        {
+            "Name": "Star",
+            "Zip": "76880"
+        },
+        {
+            "Name": "Stephenville",
+            "Zip": "76401"
+        },
+        {
+            "Name": "Sterling City",
+            "Zip": "76951"
+        },
+        {
+            "Name": "Stinnett",
+            "Zip": "79083"
+        },
+        {
+            "Name": "Stockdale",
+            "Zip": "78160"
+        },
+        {
+            "Name": "Stonewall",
+            "Zip": "78671"
+        },
+        {
+            "Name": "Stowell",
+            "Zip": "77661"
+        },
+        {
+            "Name": "Stratford",
+            "Zip": "79084"
+        },
+        {
+            "Name": "Strawn",
+            "Zip": "76475"
+        },
+        {
+            "Name": "Streetman",
+            "Zip": "75859"
+        },
+        {
+            "Name": "Sublime",
+            "Zip": "77986"
+        },
+        {
+            "Name": "Sudan",
+            "Zip": "79371"
+        },
+        {
+            "Name": "Sugar Land",
+            "Zip": "77478"
+        },
+        {
+            "Name": "Sullivan City",
+            "Zip": "78595"
+        },
+        {
+            "Name": "Sulphur Bluff",
+            "Zip": "75481"
+        },
+        {
+            "Name": "Sulphur Springs",
+            "Zip": "75482"
+        },
+        {
+            "Name": "Summerfield",
+            "Zip": "79085"
+        },
+        {
+            "Name": "Sumner",
+            "Zip": "75486"
+        },
+        {
+            "Name": "Sundown",
+            "Zip": "79372"
+        },
+        {
+            "Name": "Sunnyvale",
+            "Zip": "75182"
+        },
+        {
+            "Name": "Sunray",
+            "Zip": "79086"
+        },
+        {
+            "Name": "Sunset",
+            "Zip": "76270"
+        },
+        {
+            "Name": "Sutherland Springs",
+            "Zip": "78161"
+        },
+        {
+            "Name": "Sweeny",
+            "Zip": "77480"
+        },
+        {
+            "Name": "Sweet Home",
+            "Zip": "77987"
+        },
+        {
+            "Name": "Sweetwater",
+            "Zip": "79556"
+        },
+        {
+            "Name": "Sylvester",
+            "Zip": "79560"
+        },
+        {
+            "Name": "Taft",
+            "Zip": "78390"
+        },
+        {
+            "Name": "Tahoka",
+            "Zip": "79373"
+        },
+        {
+            "Name": "Talco",
+            "Zip": "75487"
+        },
+        {
+            "Name": "Talpa",
+            "Zip": "76882"
+        },
+        {
+            "Name": "Tarpley",
+            "Zip": "78883"
+        },
+        {
+            "Name": "Tarzan",
+            "Zip": "79783"
+        },
+        {
+            "Name": "Tatum",
+            "Zip": "75691"
+        },
+        {
+            "Name": "Taylor",
+            "Zip": "76574"
+        },
+        {
+            "Name": "Teague",
+            "Zip": "75860"
+        },
+        {
+            "Name": "Tehuacana",
+            "Zip": "76686"
+        },
+        {
+            "Name": "Telegraph",
+            "Zip": "76883"
+        },
+        {
+            "Name": "Telephone",
+            "Zip": "75488"
+        },
+        {
+            "Name": "Telferner",
+            "Zip": "77988"
+        },
+        {
+            "Name": "Tell",
+            "Zip": "79259"
+        },
+        {
+            "Name": "Temple",
+            "Zip": "76501"
+        },
+        {
+            "Name": "Tenaha",
+            "Zip": "75974"
+        },
+        {
+            "Name": "Tennessee Colony",
+            "Zip": "75861"
+        },
+        {
+            "Name": "Tennyson",
+            "Zip": "76953"
+        },
+        {
+            "Name": "Terlingua",
+            "Zip": "79852"
+        },
+        {
+            "Name": "Terrell",
+            "Zip": "75160"
+        },
+        {
+            "Name": "Texarkana",
+            "Zip": "75501"
+        },
+        {
+            "Name": "Texas City",
+            "Zip": "77590"
+        },
+        {
+            "Name": "Texhoma",
+            "Zip": "73960"
+        },
+        {
+            "Name": "Texline",
+            "Zip": "79087"
+        },
+        {
+            "Name": "The Colony",
+            "Zip": "75056"
+        },
+        {
+            "Name": "Thicket",
+            "Zip": "77374"
+        },
+        {
+            "Name": "Thomaston",
+            "Zip": "77989"
+        },
+        {
+            "Name": "Thompsons",
+            "Zip": "77481"
+        },
+        {
+            "Name": "Thorndale",
+            "Zip": "76577"
+        },
+        {
+            "Name": "Thornton",
+            "Zip": "76687"
+        },
+        {
+            "Name": "Thrall",
+            "Zip": "76578"
+        },
+        {
+            "Name": "Three Rivers",
+            "Zip": "78071"
+        },
+        {
+            "Name": "Throckmorton",
+            "Zip": "76483"
+        },
+        {
+            "Name": "Tilden",
+            "Zip": "78072"
+        },
+        {
+            "Name": "Timpson",
+            "Zip": "75975"
+        },
+        {
+            "Name": "Tioga",
+            "Zip": "76271"
+        },
+        {
+            "Name": "Tivoli",
+            "Zip": "77990"
+        },
+        {
+            "Name": "Tokio",
+            "Zip": "79376"
+        },
+        {
+            "Name": "Tolar",
+            "Zip": "76476"
+        },
+        {
+            "Name": "Tom Bean",
+            "Zip": "75489"
+        },
+        {
+            "Name": "Tomball",
+            "Zip": "77375"
+        },
+        {
+            "Name": "Tornillo",
+            "Zip": "79853"
+        },
+        {
+            "Name": "Tow",
+            "Zip": "78672"
+        },
+        {
+            "Name": "Toyah",
+            "Zip": "79785"
+        },
+        {
+            "Name": "Toyahvale",
+            "Zip": "79786"
+        },
+        {
+            "Name": "Trent",
+            "Zip": "79561"
+        },
+        {
+            "Name": "Trenton",
+            "Zip": "75490"
+        },
+        {
+            "Name": "Trinidad",
+            "Zip": "75163"
+        },
+        {
+            "Name": "Trinity",
+            "Zip": "75862"
+        },
+        {
+            "Name": "Troup",
+            "Zip": "75789"
+        },
+        {
+            "Name": "Troy",
+            "Zip": "76579"
+        },
+        {
+            "Name": "Tuleta",
+            "Zip": "78162"
+        },
+        {
+            "Name": "Tulia",
+            "Zip": "79088"
+        },
+        {
+            "Name": "Turkey",
+            "Zip": "79261"
+        },
+        {
+            "Name": "Tuscola",
+            "Zip": "79562"
+        },
+        {
+            "Name": "Tye",
+            "Zip": "79563"
+        },
+        {
+            "Name": "Tyler",
+            "Zip": "75701"
+        },
+        {
+            "Name": "Tynan",
+            "Zip": "78391"
+        },
+        {
+            "Name": "Umbarger",
+            "Zip": "79091"
+        },
+        {
+            "Name": "Universal City",
+            "Zip": "78148"
+        },
+        {
+            "Name": "Utopia",
+            "Zip": "78884"
+        },
+        {
+            "Name": "Uvalde",
+            "Zip": "78801"
+        },
+        {
+            "Name": "Valentine",
+            "Zip": "79854"
+        },
+        {
+            "Name": "Valera",
+            "Zip": "76884"
+        },
+        {
+            "Name": "Valley Mills",
+            "Zip": "76689"
+        },
+        {
+            "Name": "Valley Spring",
+            "Zip": "76885"
+        },
+        {
+            "Name": "Valley View",
+            "Zip": "76272"
+        },
+        {
+            "Name": "Van",
+            "Zip": "75790"
+        },
+        {
+            "Name": "Van Alstyne",
+            "Zip": "75495"
+        },
+        {
+            "Name": "Van Horn",
+            "Zip": "79855"
+        },
+        {
+            "Name": "Van Vleck",
+            "Zip": "77482"
+        },
+        {
+            "Name": "Vancourt",
+            "Zip": "76955"
+        },
+        {
+            "Name": "Vanderbilt",
+            "Zip": "77991"
+        },
+        {
+            "Name": "Vanderpool",
+            "Zip": "78885"
+        },
+        {
+            "Name": "Vega",
+            "Zip": "79092"
+        },
+        {
+            "Name": "Venus",
+            "Zip": "76084"
+        },
+        {
+            "Name": "Vera",
+            "Zip": "76383"
+        },
+        {
+            "Name": "Veribest",
+            "Zip": "76886"
+        },
+        {
+            "Name": "Vernon",
+            "Zip": "76384"
+        },
+        {
+            "Name": "Victoria",
+            "Zip": "77901"
+        },
+        {
+            "Name": "Vidor",
+            "Zip": "77662"
+        },
+        {
+            "Name": "Village Mills",
+            "Zip": "77663"
+        },
+        {
+            "Name": "Voca",
+            "Zip": "76887"
+        },
+        {
+            "Name": "Von Ormy",
+            "Zip": "78073"
+        },
+        {
+            "Name": "Voss",
+            "Zip": "76888"
+        },
+        {
+            "Name": "Votaw",
+            "Zip": "77376"
+        },
+        {
+            "Name": "Voth",
+            "Zip": "77709"
+        },
+        {
+            "Name": "Waco",
+            "Zip": "76701"
+        },
+        {
+            "Name": "Wadsworth",
+            "Zip": "77483"
+        },
+        {
+            "Name": "Waelder",
+            "Zip": "78959"
+        },
+        {
+            "Name": "Waka",
+            "Zip": "79093"
+        },
+        {
+            "Name": "Walburg",
+            "Zip": "78673"
+        },
+        {
+            "Name": "Wall",
+            "Zip": "76957"
+        },
+        {
+            "Name": "Waller",
+            "Zip": "77484"
+        },
+        {
+            "Name": "Wallis",
+            "Zip": "77485"
+        },
+        {
+            "Name": "Wallisville",
+            "Zip": "77597"
+        },
+        {
+            "Name": "Walnut Springs",
+            "Zip": "76690"
+        },
+        {
+            "Name": "Warda",
+            "Zip": "78960"
+        },
+        {
+            "Name": "Waring",
+            "Zip": "78074"
+        },
+        {
+            "Name": "Warren",
+            "Zip": "77664"
+        },
+        {
+            "Name": "Washington",
+            "Zip": "77880"
+        },
+        {
+            "Name": "Waskom",
+            "Zip": "75692"
+        },
+        {
+            "Name": "Water Valley",
+            "Zip": "76958"
+        },
+        {
+            "Name": "Waxahachie",
+            "Zip": "75165"
+        },
+        {
+            "Name": "Wayside",
+            "Zip": "79094"
+        },
+        {
+            "Name": "Weatherford",
+            "Zip": "76085"
+        },
+        {
+            "Name": "Webster",
+            "Zip": "77598"
+        },
+        {
+            "Name": "Weesatche",
+            "Zip": "77993"
+        },
+        {
+            "Name": "Weimar",
+            "Zip": "78962"
+        },
+        {
+            "Name": "Weinert",
+            "Zip": "76388"
+        },
+        {
+            "Name": "Weir",
+            "Zip": "78674"
+        },
+        {
+            "Name": "Welch",
+            "Zip": "79377"
+        },
+        {
+            "Name": "Wellborn",
+            "Zip": "77881"
+        },
+        {
+            "Name": "Wellington",
+            "Zip": "79095"
+        },
+        {
+            "Name": "Wellman",
+            "Zip": "79378"
+        },
+        {
+            "Name": "Wells",
+            "Zip": "75976"
+        },
+        {
+            "Name": "Weslaco",
+            "Zip": "78596"
+        },
+        {
+            "Name": "West",
+            "Zip": "76691"
+        },
+        {
+            "Name": "West Columbia",
+            "Zip": "77486"
+        },
+        {
+            "Name": "West Point",
+            "Zip": "78963"
+        },
+        {
+            "Name": "Westbrook",
+            "Zip": "79565"
+        },
+        {
+            "Name": "Westhoff",
+            "Zip": "77994"
+        },
+        {
+            "Name": "Westminster",
+            "Zip": "75485"
+        },
+        {
+            "Name": "Weston",
+            "Zip": "75097"
+        },
+        {
+            "Name": "Wharton",
+            "Zip": "77488"
+        },
+        {
+            "Name": "Wheeler",
+            "Zip": "79096"
+        },
+        {
+            "Name": "Wheelock",
+            "Zip": "77882"
+        },
+        {
+            "Name": "White Deer",
+            "Zip": "79097"
+        },
+        {
+            "Name": "White Oak",
+            "Zip": "75693"
+        },
+        {
+            "Name": "Whiteface",
+            "Zip": "79379"
+        },
+        {
+            "Name": "Whitehouse",
+            "Zip": "75791"
+        },
+        {
+            "Name": "Whitesboro",
+            "Zip": "76273"
+        },
+        {
+            "Name": "Whitewright",
+            "Zip": "75491"
+        },
+        {
+            "Name": "Whitharral",
+            "Zip": "79380"
+        },
+        {
+            "Name": "Whitney",
+            "Zip": "76692"
+        },
+        {
+            "Name": "Whitsett",
+            "Zip": "78075"
+        },
+        {
+            "Name": "Whitt",
+            "Zip": "76490"
+        },
+        {
+            "Name": "Whon",
+            "Zip": "76889"
+        },
+        {
+            "Name": "Wichita Falls",
+            "Zip": "76301"
+        },
+        {
+            "Name": "Wickett",
+            "Zip": "79788"
+        },
+        {
+            "Name": "Wiergate",
+            "Zip": "75977"
+        },
+        {
+            "Name": "Wildorado",
+            "Zip": "79098"
+        },
+        {
+            "Name": "Willis",
+            "Zip": "77318"
+        },
+        {
+            "Name": "Willow City",
+            "Zip": "78675"
+        },
+        {
+            "Name": "Wills Point",
+            "Zip": "75169"
+        },
+        {
+            "Name": "Wilmer",
+            "Zip": "75172"
+        },
+        {
+            "Name": "Wilson",
+            "Zip": "79381"
+        },
+        {
+            "Name": "Wimberley",
+            "Zip": "78676"
+        },
+        {
+            "Name": "Winchester",
+            "Zip": "78964"
+        },
+        {
+            "Name": "Windom",
+            "Zip": "75492"
+        },
+        {
+            "Name": "Windthorst",
+            "Zip": "76389"
+        },
+        {
+            "Name": "Winfield",
+            "Zip": "75493"
+        },
+        {
+            "Name": "Wingate",
+            "Zip": "79566"
+        },
+        {
+            "Name": "Wink",
+            "Zip": "79789"
+        },
+        {
+            "Name": "Winnie",
+            "Zip": "77665"
+        },
+        {
+            "Name": "Winnsboro",
+            "Zip": "75494"
+        },
+        {
+            "Name": "Winona",
+            "Zip": "75792"
+        },
+        {
+            "Name": "Winters",
+            "Zip": "79567"
+        },
+        {
+            "Name": "Woden",
+            "Zip": "75978"
+        },
+        {
+            "Name": "Wolfe City",
+            "Zip": "75496"
+        },
+        {
+            "Name": "Wolfforth",
+            "Zip": "79382"
+        },
+        {
+            "Name": "Woodlake",
+            "Zip": "75865"
+        },
+        {
+            "Name": "Woodlawn",
+            "Zip": "75694"
+        },
+        {
+            "Name": "Woodsboro",
+            "Zip": "78393"
+        },
+        {
+            "Name": "Woodson",
+            "Zip": "76491"
+        },
+        {
+            "Name": "Woodville",
+            "Zip": "75979"
+        },
+        {
+            "Name": "Woodway",
+            "Zip": "76712"
+        },
+        {
+            "Name": "Wortham",
+            "Zip": "76693"
+        },
+        {
+            "Name": "Wrightsboro",
+            "Zip": "78677"
+        },
+        {
+            "Name": "Wylie",
+            "Zip": "75098"
+        },
+        {
+            "Name": "Yancey",
+            "Zip": "78886"
+        },
+        {
+            "Name": "Yantis",
+            "Zip": "75497"
+        },
+        {
+            "Name": "Yoakum",
+            "Zip": "77995"
+        },
+        {
+            "Name": "Yorktown",
+            "Zip": "78164"
+        },
+        {
+            "Name": "Zapata",
+            "Zip": "78076"
+        },
+        {
+            "Name": "Zavalla",
+            "Zip": "75980"
+        },
+        {
+            "Name": "Zephyr",
+            "Zip": "76890"
+        }
+    ]
+}

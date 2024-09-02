@@ -1,0 +1,129 @@
+body {
+  width: 350px;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+h2 {
+  color: #2c3e50;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.form-group {
+  position: relative;
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  color: #34495e;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #bdc3c7;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+input:focus {
+  outline: none;
+  border-color: #3498db;
+  box-shadow: 0 0 5px rgba(52, 152, 219, 0.5);
+}
+
+button {
+  width: 48%;
+  padding: 10px 15px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s, transform 0.1s;
+}
+
+button:hover {
+  transform: translateY(-2px);
+}
+
+button i {
+  margin-right: 8px;
+}
+
+#startProcess {
+  background-color: #2ecc71;
+}
+
+#startProcess:hover {
+  background-color: #27ae60;
+}
+
+#clearButton {
+  background-color: #e74c3c;
+}
+
+#clearButton:hover {
+  background-color: #c0392b;
+}
+
+#clearHeadersButton {
+  background-color: #f39c12;
+}
+
+#clearHeadersButton:hover {
+  background-color: #d35400;
+}
+
+#startCityProcessing {
+  background-color: #3498db;
+}
+
+#startCityProcessing:hover {
+  background-color: #2980b9;
+}
+
+.error {
+  color: #e74c3c;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+#notAllowedMessage {
+  display: none;
+  color: #e74c3c;
+  text-align: center;
+  font-weight: bold;
+  background-color: #fadbd8;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.button-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+button:disabled {
+  background-color: #cccccc;
+  color: #666666;
+  cursor: not-allowed;
+}

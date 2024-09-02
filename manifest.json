@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "DPS Scheduler",
+  "version": "1.0",
+  "description": "Automates scheduling for Texas DPS",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://public.txdpsscheduler.com/*"
+  ],
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://public.txdpsscheduler.com/*"],
+      "js": [
+        "config/constants.js",
+        "content/content.js"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["data/supported_cities.json"],
+      "matches": ["https://public.txdpsscheduler.com/*"]
+    }
+  ]
+}

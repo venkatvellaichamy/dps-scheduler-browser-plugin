@@ -507,10 +507,29 @@ class ContentManager {
             this.checkProgressBarInternal();
 
             chrome.runtime.sendMessage({ action: "processCompleted" });
+            
+            // Add this line to hide the divs after process completion
+            this.hideFirstFourChildDivs();
+
             return { status: "Process completed successfully" };
         } catch (error) {
             console.error("Unexpected error in process sequence:", error.message);
             return { status: "Error", message: error.message };
+        }
+    }
+
+    // Add this new method
+    hideFirstFourChildDivs() {
+        const parentDiv = document.querySelector("#app > section > div > main > div > section > div.px-3 > div");
+
+        if (parentDiv) {
+            const childDivs = parentDiv.children;
+            for (let i = 0; i < 4 && i < childDivs.length; i++) {
+                childDivs[i].style.display = 'none';
+            }
+            console.log("First 4 child divs have been hidden");
+        } else {
+            console.log("Parent div not found");
         }
     }
 }

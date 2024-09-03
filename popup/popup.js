@@ -2,7 +2,11 @@ console.log('Popup script loaded');
 
 document.addEventListener('DOMContentLoaded', function() {
   console.log('DOM content loaded');
-  PopupManager.checkCurrentPage();
+  PopupManager.init();
+  document.getElementById('fetchLocationsButton').addEventListener('click', () => {
+    const zipcode = document.getElementById('zipcode').value;
+    PopupManager.fetchAvailableLocations(zipcode);
+  });
 });
 
 function checkContentScriptReady(callback, maxRetries = 5, currentRetry = 0) {
@@ -32,6 +36,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   switch (request.action) {
     case "cityProcessingStopped":
       console.log(`City processing stopped: ${request.reason}`);
+      DOMUtils.showGeneralError(`City processing stopped: ${request.reason}`);
       break;
     case "processError":
       console.error(`Process error: ${request.error}`);
@@ -47,4 +52,15 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     default:
       console.log("Unknown action:", request.action);
   }
+});
+
+chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
+    chrome.tabs.sendMessage(tabs[0].id, {action: "checkProgressBar"}, function(response) {
+        if (chrome.runtime.lastError) {
+            console.error(chrome.runtime.lastError);
+        } else if (response) {
+            console.log("Progress bar status:", response.progressBarFound);
+            // Handle the response
+        }
+    });
 });

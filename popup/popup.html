@@ -6,41 +6,59 @@
   <link rel="stylesheet" href="popup.css">
 </head>
 <body>
-  <h2><i class="fas fa-car"></i> DPS Scheduler</h2>
+  <h2><i class="fas fa-star"></i> Texas DPS Scheduler</h2>
   <div id="formContainer" style="display: none;">
     <form id="userForm" autocomplete="off">
-      <div class="form-group">
-        <label for="firstName"><i class="fas fa-user"></i> First Name:</label>
-        <input type="text" id="firstName" required>
+      <div class="form-row">
+        <div class="form-group">
+          <label for="firstName"><i class="fas fa-user"></i> First Name:</label>
+          <input type="text" id="firstName" required>
+        </div>
+        <div class="form-group">
+          <label for="lastName"><i class="fas fa-user"></i> Last Name:</label>
+          <input type="text" id="lastName" required>
+        </div>
       </div>
-      <div class="form-group">
-        <label for="lastName"><i class="fas fa-user"></i> Last Name:</label>
-        <input type="text" id="lastName" required>
+      <div class="form-row">
+        <div class="form-group">
+          <label for="dob"><i class="fas fa-calendar-alt"></i> Date of Birth:</label>
+          <input type="text" id="dob" required pattern="\d{2}/\d{2}/\d{4}">
+          <span class="hint">(mm/dd/yyyy)</span>
+        </div>
+        <div class="form-group">
+          <label for="ssn"><i class="fas fa-id-card"></i> Last 4 digits of SSN:</label>
+          <input type="password" id="ssn" required pattern="\d{4}" maxlength="4">
+        </div>
       </div>
-      <div class="form-group">
-        <label for="dob"><i class="fas fa-calendar-alt"></i> Date of Birth (mm/dd/yyyy):</label>
-        <input type="text" id="dob" required pattern="\d{2}/\d{2}/\d{4}">
+      <div class="form-row">
+        <div class="form-group">
+          <label for="cellPhone"><i class="fas fa-phone"></i> Cell Phone:</label>
+          <input type="tel" id="cellPhone" required>
+        </div>
+        <div class="form-group">
+          <label for="email"><i class="fas fa-envelope"></i> Email:</label>
+          <input type="email" id="email" required>
+        </div>
       </div>
-      <div class="form-group">
-        <label for="ssn"><i class="fas fa-id-card"></i> Last 4 digits of SSN:</label>
-        <input type="password" id="ssn" required pattern="\d{4}" maxlength="4">
-      </div>
-      <div class="form-group">
-        <label for="cellPhone"><i class="fas fa-phone"></i> Cell Phone:</label>
-        <input type="tel" id="cellPhone" required>
-      </div>
-      <div class="form-group">
-        <label for="email"><i class="fas fa-envelope"></i> Email:</label>
-        <input type="email" id="email" required>
+      <div class="form-row">
+        <div class="form-group">
+          <label for="city"><i class="fas fa-city"></i> City:</label>
+          <input type="text" id="city">
+          <div id="cityAutocomplete" class="autocomplete-items"></div>
+        </div>
+        <div class="form-group">
+          <label for="zipcode"><i class="fas fa-map-marker-alt"></i> Zipcode:</label>
+          <input type="text" id="zipcode" pattern="\d{5}">
+        </div>
       </div>
       <div class="button-container">
         <div class="button-row">
           <button type="submit" id="startProcess"><i class="fas fa-play"></i> Start</button>
-          <button type="button" id="startCityProcessing"><i class="fas fa-city"></i> Process Cities</button>
         </div>
         <div class="button-row">
-          <button type="button" id="clearButton"><i class="fas fa-trash"></i> Clear</button>
-          <button type="button" id="clearHeadersButton"><i class="fas fa-broom"></i> Clear Headers</button>
+          <button type="button" id="resetButton"><i class="fas fa-undo"></i> Reset</button>
+          <button type="button" id="fetchLocationsButton"><i class="fas fa-map-marker-alt"></i> Fetch Locations</button>
+          <button type="button" id="showStoredLocationsButton"><i class="fas fa-list"></i> Show Stored Locations</button>
         </div>
       </div>
     </form>
@@ -48,7 +66,15 @@
   <div id="notAllowedMessage" style="display: none;">
     <p><i class="fas fa-exclamation-triangle"></i> This extension is only available on https://public.txdpsscheduler.com/</p>
   </div>
-  <div id="generalError" style="display: none; color: red;"></div>
+  <div id="generalError" class="message error" style="display: none;"></div>
+  <div id="generalMessage" class="message info" style="display: none;"></div>
+  <div id="headerModal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h2>Stored Headers</h2>
+      <textarea id="headerData" readonly></textarea>
+    </div>
+  </div>
   <script src="../utils/api.js"></script>
   <script src="../utils/dom.js"></script>
   <script src="../utils/storage.js"></script>

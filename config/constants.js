@@ -19,6 +19,8 @@ const Constants = {
     APPLY_FIRST_TIME_BUTTON: "/html/body/div[1]/div/main/div/div/section/div/main/div/section/div[2]/div/main/div/div/div[1]/div[1]/button",
     PREVIOUS_BUTTON: "/html/body/div[1]/div/main/div/div/section/div/main/div/section/div[2]/div/div[5]/div/div[1]/button",
     ZIPCODE_INPUT: "/html/body/div[1]/div/main/div/div/section/div/main/div/section/div[2]/div/form/div/div[2]/div[1]/div[4]/div[1]/div/div/div[1]/div[1]/input",
-    NEXT_BUTTON: "/html/body/div[1]/div/main/div/div/section/div/main/div/section/div[2]/div/form/div/div[2]/div[2]/div/div[2]/button"
+    NEXT_BUTTON: "/html/body/div[1]/div/main/div/div/section/div/main/div/section/div[2]/div/form/div/div[2]/div[2]/div/div[2]/button",
+    DIALOG: "/html/body/div[1]/div[1]/div",
+    DIALOG_OK_BUTTON: "/html/body/div[1]/div[1]/div/div/div[2]/button"
   }
 };
